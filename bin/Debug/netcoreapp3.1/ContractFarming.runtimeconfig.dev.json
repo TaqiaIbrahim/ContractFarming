@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Taqia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Taqia\\.nuget\\packages"
+    ]
+  }
+}

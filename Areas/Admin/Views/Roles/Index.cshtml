@@ -1,0 +1,103 @@
+﻿@model IEnumerable<IdentityRole>
+
+@{
+    ViewData["Title"] = "الصلاحيات";
+    var index = 1;
+
+}
+<!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+    <div class="content-wrapper">
+        <!-- Content -->
+
+        <div class="container-xxl flex-grow-1 container-p-y">
+            <partial name="_Roleform" model="new RoleFormViewModel()">
+                <!-- Users List Table -->
+                <div class="card">
+
+                    <div class="row gx-3 gy-2 align-items-center mt-1 mb-4 ms-1 me-1">
+                        <div class="table-responsive text-nowrap">
+
+                            @if (!Model.Any())
+                            {
+                                <div class="alert alert-warning" role="alert">
+                                    لا توجد اي صلاحيات بعد
+                                </div>
+                            }
+                            else
+                            {
+                                <table class="table TProject">
+                                    <thead>
+                                        <tr>
+
+                                            <th>رقم الصلاحية</th>
+                                            <th>
+                                                اسم الصلاحية
+                                            </th>
+
+                                            <th>الإجراءات</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="table-border-bottom-0">
+                                        @foreach (var item in Model)
+                                        {
+                                            <tr>
+                                                <th>@(index++)</th>
+                                                <th>@item.Name</th>
+
+
+
+                                                <th>
+                                                    <div class="dropdown">
+                                                        <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown"
+                                                                aria-expanded="false">
+                                                            <i class="bx bx-dots-vertical-rounded"></i>
+                                                        </button>
+                                                        <div class="dropdown-menu">
+
+                                                            <a asp-action="ManagePremissions" asp-route-roleId="@item.Id" class="dropdown-item">
+                                                                <i class="bx bxs-edit-alt icon-padding edit-color"></i>
+                                                                إدارة الصلاحيات
+
+                                                            </a>
+                                                            <a asp-controller="Roles" asp-action="Delete" asp-route-roleId="@item.Id" onclick="return functionConfirm(this)" class="dropdown-item">
+                                                                <i class="bx bxs-edit-alt icon-padding edit-color"></i>
+
+                                                                تعديل
+                                                            </a>
+
+                                                            <a asp-action="Delete" asp-route-roleId="@item.Id" class="dropdown-item" onclick="return confirm('هل تريد حذف هذا الحقل؟')">
+                                                                <i class="bx bxs-edit-alt icon-padding delet-color"></i>
+
+                                                                حذف
+                                                            </a>
+
+
+
+
+                                                        </div>
+                                                    </div>
+                                                </th>
+
+
+                                            </tr>
+                                        }
+
+
+
+                                    </tbody>
+                                </table>
+                            }
+                            </div>
+
+
+                       
+                    </div>
+                </div>
+        </div>
+
+        @section Scripts {
+               
+
+            <partial name="_ValidationScriptsPartial" />
+        }

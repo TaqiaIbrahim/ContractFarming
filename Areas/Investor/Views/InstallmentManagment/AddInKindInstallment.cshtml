@@ -1,0 +1,180 @@
+﻿@model ContractFarming.Models.InKindInstallment
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+
+        <div class="row">
+            <div class="col-md-12">
+
+                <div class="card mb-4">
+                    <h5 class="card-header">اضافة قسط عيني</h5>
+                    <!-- Account -->
+
+
+
+                    <div class="card-body">
+                        <form asp-action="AddInKindInstallment">
+                            <div class="row">
+                                <div class="col-sm-12 fv-plugins-icon-container">
+                                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                    <input type="hidden" asp-for="Id" a />
+
+
+                                    <div class="col-sm-12 fv-plugins-icon-container">
+                                        <label asp-for="ContractId" class="control-lable">   اسم العقد</label>
+                                        <select asp-for="ContractId" class="form-control" type="text" asp-items="@(new SelectList(ViewBag.Contract, "Id", "ContractTitle") )"> </select>
+                                        <span asp-validation-for="ContractId" class="text-danger"></span>
+                                        <div class="fv-plugins-message-container invalid-feedback"></div>
+                                    </div>
+                                </div>
+
+
+
+
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <label asp-for="Discriminator" class="form-label">نوع القسط</label>
+                                        <select asp-for="Discriminator" class="select2 form-select form-select-lg" data-allow-clear="true"
+                                                aria-describedby="basicFullname2">
+
+                                          
+                                            <option value="InKindInstallment">عيني</option>
+
+                                        </select>
+                                    </div>
+
+                                    <div class="col-md-6 mb-3">
+                                        <label asp-for="DeliveryDate" class="form-label" for="basicFullname">  التاريخ</label>
+                                        <input  asp-for="DeliveryDate" type="date" id="Price" class="form-control dt-full-name" name="Price"
+                                               placeholder="" aria-label="132456" aria-describedby="basicFullname2" />
+
+
+                                    </div>
+
+                                   
+
+
+
+                                   
+
+                                    <div class="row">
+                                        <div class="col-md-6 mb-3">
+                                            <label  asp-for ="Substance"class="form-label">المادة</label>
+                                            <input  asp-for ="Substance"class="form-control"
+                                                   type="text"
+                                                  
+                                                   autofocus />
+                                        </div>
+
+                                        <div class="col-md-6 mb-3">
+
+                                            <label   asp-for ="Category"class="form-label" for="basicFullname"> الصنف</label>
+                                            <input  asp-for ="Category"type="text"
+                                                   id="Price"
+                                                   class="form-control dt-full-name"
+                                                  
+                                                   placeholder=""
+                                                   aria-label="132456" aria-describedby="basicFullname2" />
+                                        </div>
+                                        <div class="col-md-6 mb-3">
+
+
+                                            <label   asp-for ="Company" class="form-label">  الشركة المصنعة  </label>
+                                            <input   asp-for ="Company"type="text"  class="form-control dt-full-name" name="Price"
+                                                   placeholder="" aria-label="132456" aria-describedby="basicFullname2" />
+
+
+
+                                        </div>
+
+                                        <div class="col-md-6 mb-3">
+
+
+                                            <label class="form-label"  asp-for ="Type"> النوع </label>
+                                            <input  asp-for ="Type" type="text" id="Price" class="form-control dt-full-name" name="Price"
+                                                   placeholder="" aria-label="132456" aria-describedby="basicFullname2" />
+
+
+                                        </div>
+
+
+                                        <div class="col-md-6 mb-3">
+
+
+                                            <label  asp-for ="Model" class="form-label" >   الموديل </label>
+                                            <input  asp-for ="Model" type="text"  class="form-control dt-full-name" name="Price"
+                                                   placeholder="" aria-label="132456" aria-describedby="basicFullname2" />
+
+
+                                        </div>
+
+                                        <div class="col-md-6 mb-3">
+
+
+                                            <label  asp-for ="ActiveSubstance" class="form-label" for="basicFullname">  المادة الفعالة </label>
+                                            <input   asp-for ="ActiveSubstance" type="text"  class="form-control dt-full-name" 
+                                                   placeholder="" aria-label="132456" aria-describedby="basicFullname2" />
+
+                                        </div>
+
+
+
+                                        <div class="col-md-6 mb-3">
+
+
+                                            <label  asp-for ="Unit" class="form-label" >  الوحدة</label>
+                                            <input  asp-for ="Unit" type="text" id="Price" class="form-control dt-full-name" name="Price"
+                                                   placeholder="" aria-label="132456" aria-describedby="basicFullname2" />
+
+                                        </div>
+
+
+
+                                        <div class="col-md-6 mb-3">
+
+
+                                            <label  asp-for ="Quantity" class="form-label" for="basicFullname">  الكمية </label>
+                                            <input  asp-for ="Quantity" type="text" id="Price" class="form-control dt-full-name" name="Price"
+                                                   placeholder="" aria-label="132456" aria-describedby="basicFullname2" />
+
+
+                                        </div>
+
+
+
+                                        <div class="col-md-6 mb-3">
+
+                                            <div class="col-sm-12">
+                                                <label asp-for="UnitPrice" class="form-label" for="basicFullname">  سعر الوحدة </label>
+                                                <input   asp-for ="UnitPrice"type="text" id="Price" class="form-control dt-full-name" name="Price"
+                                                       placeholder="" aria-label="132456" aria-describedby="basicFullname2" />
+
+                                            </div>
+
+
+                                        </div>
+
+                   
+
+
+
+                        <div class="mt-2">
+                        <button asp-action="AddInKindInstallment" type="submit" class="btn btn-primary me-2">حفظ </button>
+                        <button asp-action="Index" class="btn btn-label-secondary">إلغاء</button>
+                    </div>
+
+
+
+                    </form>
+
+
+                </div>
+                        <!-- /Account -->
+                    </div>
+
+                </div>
+        </div>
+    </div>

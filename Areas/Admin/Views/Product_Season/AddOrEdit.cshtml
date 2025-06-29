@@ -1,0 +1,72 @@
+﻿@model ContractFarming.Models.Product_Season
+@{
+    ViewData["Title"] = "أسعار المنتجات";
+}
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+
+
+
+
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <h4 class="breadcrumb-wrapper py-3 mb-4">
+            <span class="text-muted fw-light"> <a asp-action="Index">أسعار المنتجات </a> /</span> تحديد سعر المنتَج
+        </h4>
+        <div class="col-12 col-md-8 col-xl-7 mb-4 mb-md-0">
+            <div class="card ">
+
+
+                <div class="offcanvas-body flex-grow-0 mx-0">
+                    <form asp-action="AddOrEdit" class="add-new-record " id="valid" onsubmit=" ">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        @*<input type="hidden" asp-for="Id" a />*@
+                        <div class="col-sm-12">
+                            <label asp-for=" SeasonId" class="control-lable"> الموسم</label>
+                            <select asp-for=" SeasonId" class="form-control " asp-items='@( new SelectList (ViewBag.season,"Id","SeasonName"))'></select>
+                            <span asp-validation-for=" SeasonId" class="text-danger"></span>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+                        <div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="ProductId" class="control-lable">المنتًج </label>
+                            <select asp-for=" ProductId" class="form-control" asp-items='@( new SelectList (ViewBag.Product,"Id","Name"))'></select>
+                            <span asp-validation-for="ProductId" class="text-danger"></span>
+
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+                        <div class="col-sm-12">
+                            <label asp-for="Price" class="control-lable">السعر</label>
+                            <input asp-for="Price" class="form-control dt-full-name" type="text" placeholder="" aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="Price" class="text-danger"></span>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+
+
+                        <div class="col-sm-12 mt-5">
+                            <button asp-action="AddOrEdit" type="submit" class="btn btn-primary data-submit me-1 me-sm-3 w-100 ">حفظ</button>
+                        </div>
+                        <div class="col-sm-12">
+                            <button asp-action="Index" class="btn btn-outline-secondary w-100 mt-1">
+                                إلغاء
+                            </button>
+                        </div>
+
+
+
+                    </form>
+                </div>
+            </div>
+
+
+
+
+            <!-- / Layout wrapper -->
+        </div>
+    </div>
+</div>
+
+
+
+

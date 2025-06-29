@@ -1,0 +1,128 @@
+<!-- Offcanvas to add new user -->
+<div class="content-wrapper">
+    <h4 class="breadcrumb-wrapper py-3 mb-4">
+        <span class="text-muted fw-light"> <a asp-action="Index">المستخدمين </a> /</span> إضافة مستخدم
+    </h4>
+    <div class="col-12 col-md-8 col-xl-7 mb-4 mb-md-0">
+        <div class="card ">
+            <div class="offcanvas-body flex-grow-1">
+                <form asp-action="AddOrEdit" class="add-new-record row g-2 pt-0" id="form-add-new-record" onsubmit="return false">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="Id" a />
+                    <div class="col-sm-12 fv-plugins-icon-container">
+                        <label asp-for="Name" class="form-label" for="basicFullname"> الإسم </label>
+                        <input asp-for="Name" type="text" id="UserName" class="form-control dt-full-name" name="UserName"
+                               placeholder="" aria-label="132456" aria-describedby="basicFullname2">
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                        <div class="fv-plugins-message-container invalid-feedback"></div>
+                    </div>
+
+                    <div class="col-sm-12 fv-plugins-icon-container">
+                        <label asp-for="Email" class="form-label" for="basicEmail">البريد الإلكتروني</label>
+                        <div class="input-group input-group-merge has-validation">
+                            <span class="input-group-text"><i class="bx bx-envelope"></i></span>
+                            <input asp-for="Email" type="text" id="basicEmail" name="basicEmail" class="form-control dt-email"
+                                   placeholder="john.doe@example.com" aria-label="john.doe@example.com">
+                        </div><span asp-validation-for="Email" class="text-danger"></span>
+                        <div class="fv-plugins-message-container invalid-feedback"></div>
+                        <div class="form-text">يمكنك استخدام الحروف والأرقام والنقاط</div>
+                    </div>
+
+                    @*<div class="col-sm-12">
+                    <label class="form-label" for="basicEmail">صورة المستخدم</label>
+                    <div class="input-group">
+                        <input type="file" class="form-control" id="inputGroupFile04" id="File" name="File"
+                               aria-describedby="inputGroupFileAddon04" aria-label="Upload">
+
+                    </div>
+                    <span asp-validation-for="ProfilePhoto" class="text-danger"></span>*@
+
+                    <div class="col-sm-12">
+                        <label asp-for=" Password" class="form-label" for="basicEmail">كلمة المرور</label>
+
+                        <div class="input-group input-group-merge has-validation">
+                            <input asp-for=" Password" type="password" id="Password" class="form-control" name="Password" placeholder="············"
+                                   aria-describedby="Password">
+                            <span class="input-group-text cursor-pointer"><i class="bx bx-hide"></i></span>
+                        </div>
+                    </div>
+
+                    @*<div class="col-sm-12 ">
+
+                        <label  asp-for=" " class="form-label" for="basicFullname"> المنطقة</label>
+
+                        <select  asp-for=" Password" id="item-group-a" class="select2 form-select form-select-lg" data-allow-clear="true"
+                                id="Country" class="form-control dt-full-name" name="Country" aria-label="Country"
+                                aria-describedby="basicFullname2">
+
+                            <option value="1"></option>
+                            <option value="2"></option>
+                            <option value="3"></option>
+                            <option value="4"></option>
+                            <option value="5"></option>
+
+                        </select>
+                    </div>*@
+
+                    <div class="col-sm-12 ">
+
+                        <label class="form-label" for="basicFullname">نوع المستخدم</label>
+
+                        <select asp-for=" Type" id="item-group-b" class="select2 form-select form-select-lg" data-allow-clear="true"
+                                id="UserType" class="form-control dt-full-name" name="UserType" aria-label="UserType"
+                                aria-describedby="basicFullname2">
+
+                            <option value="مشرف محافطة">مشرف محافطة</option>
+                            <option value="مشرف مديرية">مشرف مديرية</option>
+                            <option value="مشرف قرية">مشرف قرية</option>
+                            <option value="مشرف عزلة">مشرف عزلة"</option>
+                            <span asp-validation-for="ProfilePhoto" class="text-danger"></span>
+
+
+                        </select>
+                    </div>
+
+
+            <div class="col-sm-12 fv-plugins-icon-container">
+                <label asp-for=" Phones" class="form-label" for="basicPost">رقم الهاتف</label>
+                <div class="input-group input-group-merge has-validation">
+                    <span id="basicPost2" class="input-group-text"><i class="bx bxs-phone"></i></span>
+                    <input asp-for=" Phones" type="text" id="basicPhone" name="basicPhone" class="form-control dt-post"
+                           placeholder="+967 774 258 364" aria-label="+967 774 258 364" aria-describedby="basicPost2">
+                </div>
+                <span asp-validation-for=" Phones" class="text-danger"></span>
+                <div class="fv-plugins-message-container invalid-feedback"></div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="col-sm-12 mt-5">
+                <button asp-action="AddOrEdit" class="btn btn-primary data-submit me-1 me-sm-3 w-100 ">حفظ</button>
+            </div>
+            <div class="col-sm-12">
+                <button asp-action="Index" class="btn btn-outline-secondary w-100" data-bs-dismiss="offcanvas">إلغاء</button>
+            </div>
+
+
+            </form>
+        </div>
+
+    </div>
+    </div>
+</div>
+
+
+
+
+
+
+  

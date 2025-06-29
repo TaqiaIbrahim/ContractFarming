@@ -1,0 +1,91 @@
+﻿@model ContractFarming.Models.InstallmentReview
+
+@{
+    ViewData["Title"] = "تقييم الاقساط";
+}
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+
+
+
+
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+        @*<h4 class="breadcrumb-wrapper py-3 mb-4">
+            <span class="text-muted fw-light"> <a asp-action="Index">تقييم الاقساط </a> /</span> إضافة تقييم
+        </h4>*@
+        <div class="col-12 col-md-8 col-xl-7 mb-4 mb-md-0">
+            <div class="card ">
+
+
+                <div class="offcanvas-body flex-grow-0 mx-0">
+                    <form asp-action="Add" class="add-new-record " id="valid" onsubmit=" ">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" a />
+                       
+                        <div class="col-sm-12">
+                            <div class="col-sm-12 fv-plugins-icon-container">
+                                <label asp-for="InstallmentId" class="control-lable">رقم القسط</label>
+
+                                <input asp-for="InstallmentId"  id="item-group-a" class="select2 form-select form-select-lg" data-allow-clear="true"
+                                        id="product" class="form-control dt-full-name" name="producers" aria-label="product"
+                                        aria-describedby="basicFullname2"/>
+                                
+                                <span asp-validation-for="InstallmentId" class="text-danger"></span>
+                            </div>
+
+                            <div class="col-sm-12 fv-plugins-icon-container">
+                                <label asp-for="Text" class="control-lable">نص التقييم</label>
+                                <input asp-for="Text" class="form-control " type="text" aria-label="132456" aria-describedby="basicFullname2">
+                                <span asp-validation-for="Text" class="text-danger"></span>
+
+                                <div class="fv-plugins-message-container invalid-feedback"></div>
+                            </div>
+                            <div class="col-sm-12 fv-plugins-icon-container">
+                                <label asp-for="Date" class="control-lable">  تاريخ التقييم</label>
+                                <input asp-for="Date" class="form-control" type="text">
+                                <span asp-validation-for="Date" class="text-danger"></span>
+                                <div class="fv-plugins-message-container invalid-feedback"></div>
+                            </div>
+
+
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                            <label asp-for="RatingScore" class="control-lable">  درجة التقييم</label>
+                            <input asp-for="RatingScore" class="form-control">
+                            <span asp-validation-for="RatingScore" class="text-danger"></span>
+
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+
+
+
+                            <div class="col-sm-12 mt-5">
+                                <button asp-action="Add" type="submit" class="btn btn-primary data-submit me-1 me-sm-3 w-100 ">حفظ</button>
+                            </div>
+                            <div class="col-sm-12">
+                                <button asp-action="Index" class="btn btn-outline-secondary w-100 mt-1">
+                                    إلغاء
+                                </button>
+                            </div>
+
+
+
+                    </form>
+                </div>
+            </div>
+
+
+
+
+            <!-- / Layout wrapper -->
+        </div>
+    </div>
+</div>
+
+</div>
+        </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

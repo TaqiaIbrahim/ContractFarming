@@ -1,0 +1,311 @@
+﻿
+@model ContractFarming.Models.ContractRequest
+
+
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+            <h5 class="fw-bold text-primary text-uppercase">
+                <a asp-action="Detailes">
+                    <h4>@Model.Contracts.ContractTitle</h4>  
+                    <h4>رقم العقد :@Model.Contracts.Id</h4>
+                    <h4>رقم الطلب :@Model.Id</h4>
+                    <div class="form-floating">
+
+                        <span class="form-control bg-light border-0"> </span>
+                        <label asp-for="Contracts.DeliveryDate"
+                               for="name">
+                            تاريخ التوقيع :
+                            <span>@Model.Contracts.DeliveryDate</span>
+                        </label>
+
+                    </div>
+                </a>
+            </h5>
+
+        </div>
+        <div class="row g-3">
+            <div class="col-md-4">
+                <input asp-for="Id"
+                       type="hidden" class="form-control bg-light border-0">
+
+            </div>
+
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                    <p><span class="text-primary me-2">الطرف الاول</span></p>
+                    <h1 class="display-5 mb-4"></h1>
+
+                    <form>
+
+                        <div class="row g-3">
+                            <div class="col-md-4">
+                                @*<input asp-for="ContractRequestId"*@
+                                <input type="hidden" class="form-control bg-light border-0">
+                                <div class="form-floating">
+
+
+                                    <span class="form-control bg-light border-0">@Model.Investor.FullName</span>
+                                    <label for="name">اسم الشركه</label>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-floating">
+                                    <span class="form-control bg-light border-0">@Model.Investor.Email</span>
+                                    <label for="name">البريد الاليكتروني</label>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-floating">
+                                    <span class="form-control bg-light border-0">@Model.Investor.Address</span>
+                                    <label for="name">العنوان</label>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4">
+                                <div class="form-floating">
+                                    <span class="form-control bg-light border-0">@Model.Investor.PhoneNumber</span>
+                                    <label for="name">رقم الهاتف</label>
+                                </div>
+                            </div>
+
+
+
+
+
+                        </div>
+                    </form>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                    <p><span class="text-primary me-2">الطرف الثاني</span></p>
+                    <h1 class="display-5 mb-4"></h1>
+
+                    <form>
+
+                        <div class="row g-3">
+
+                            <div class="col-md-4">
+
+                                <div class="form-floating">
+                                    <span class="form-control bg-light border-0">@Model.Producer.FullName</span>
+                                    <label for="name">اسم المنتج
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-floating">
+                                    <label for="name">المحافظة</label>
+                                    <span class="form-control bg-light border-0"></span>
+
+                                    @*<input type="email" class="form-control bg-light border-0" id="email" placeholder="Your Email">*@
+                                    @*<span class="form-control bg-light border-0">Model.ContractRequests.Producer.Location.Governorate</span>
+                                    <label for="name">المحافظة</label>
+                                    <span class="form-control bg-light border-0">Model.ContractRequests.Producer.Location.Dicrtorate</span>
+                                    <label for="name">المديرية</label>
+                                    <span class="form-control bg-light border-0">Model.ContractRequests.Producer.Location.Isolation</span>
+                                    <label for="name">العزلة</label>
+                                    <span class="form-control bg-light border-0">Model.ContractRequests.Producer.Location.Village</span>
+                                    <label for="name">القرية</label>*@
+
+
+
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-floating">
+                                    <label for="name">رقم الهاتف</label>
+                                    <span class="form-control bg-light border-0">@Model.Producer.PhoneNumber</span>
+                                </div>
+                            </div>
+
+
+
+
+
+
+
+
+
+
+
+                        </div>
+                    </form>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s;">
+                    <p><span class="text-primary me-2">المنتج</span></p>
+                    <h1 class="display-5 mb-4"></h1>
+
+
+                    <form>
+                        <div class="row g-3">
+
+                            <div class="col-md-6">
+
+                                <div class="form-floating">
+
+                                    <span class="form-control bg-light border-0">@Model.product.Name</span>
+                                    <label for="name">اسم المحصول</label>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="form-floating">
+
+                                    <span class="form-control bg-light border-0">@Model.product.ProductQuality</span>
+                                    <label for="name">جودة المحصول</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating">
+
+                                    <span class="form-control bg-light border-0">@Model.product.CostsPerKilo</span>
+                                    <label for="name">السعر التقريبي بالكيلوا</label>
+                                </div>
+                            </div>
+
+
+
+
+                        </div>
+                    </form>
+
+
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s;">
+                        <p><span class="text-primary me-2">المستلزمات الانتاجية</span></p>
+
+
+                        <form>
+                            @{
+                                @if (ViewBag.ProducSuplly != null)
+                                {
+                                    @foreach (var item in ViewBag.ProducSuplly)
+                                    {
+
+
+
+                                        <div class="row g-3">
+
+                                            <div class="col-md-6">
+
+                                                <div class="form-floating">
+                                                    <label for="name">المادة</label>
+                                                    <span class="form-control bg-light border-0">@item.Substance</span>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-6">
+                                                <div class="form-floating">
+
+                                                    <span class="form-control bg-light border-0">@item.Quntity</span>
+                                                    <label for="name">الكمية</label>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-floating">
+
+                                                    <span class="form-control bg-light border-0">@item.Company</span>
+                                                    <label for="name">الشركة</label>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-floating">
+
+                                                    <span class="form-control bg-light border-0">  @item.ActiveSubstance</span>
+                                                    <label for="name">المادة الفعالة</label>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-6">
+                                                <div class="form-floating">
+
+                                                    <span class="form-control bg-light border-0"> @item.UnitPrice</span>
+                                                    <label for="name">سعر الوحدة</label>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-floating">
+                                                    <label for="name">حجم الوحدة</label>
+                                                    <span class="form-control bg-light border-0"> @item.UnitSize</span>
+                                                    <label for="name">حجم الوحدة</label>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-6">
+                                                <div class="form-floating">
+
+                                                    <span class="form-control bg-light border-0"> @item.Quntity</span>
+                                                    <label for="name">الكمية</label>
+                                                </div>
+                                            </div>
+
+
+                                        </div>
+                                    }
+                                }
+                                else
+                                {
+                                    <div class="row g-3">
+
+                                        <div class="col-md-6">
+
+                                            <div class="form-floating">
+                                                <label for="name">المادة</label>
+                                                <span class="form-control bg-light border-0"></span>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-6">
+                                            <div class="form-floating">
+                                                <label for="name">الكمية</label>
+                                                <span class="form-control bg-light border-0"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-floating">
+                                                <label for="name">الشركة</label>
+                                                <span class="form-control bg-light border-0"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-floating">
+                                                <label for="name">المادة الفعالة</label>
+                                                <span class="form-control bg-light border-0">  </span>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-6">
+                                            <div class="form-floating">
+                                                <label for="name">سعر الوحدة</label>
+                                                <span class="form-control bg-light border-0"> </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-floating">
+                                                <label for="name">حجم الوحدة</label>
+                                                <span class="form-control bg-light border-0"> </span>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-6">
+                                            <div class="form-floating">
+                                                <label for="name">الكمية</label>
+                                                <span class="form-control bg-light border-0"> </span>
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                }
+
+
+
+                            }
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+

@@ -1,0 +1,86 @@
+﻿@model IEnumerable<ContractFarming.Models.InKindInstallment>
+
+@{
+    ViewData["Title"] = "الأقساط";
+}
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <!-- Content -->
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <h4 class="breadcrumb-wrapper py-3 mb-4">
+            <span class="text-muted fw-light"><a asp-action="Index">الأقساط </a>  /</span> القسط العيني
+        </h4>
+        <div class="row invoice-edit">
+            <!-- Invoice Edit-->
+            <div class="row invoice-edit">
+                <div class="card invoice-preview-card">
+                    <div class="card-body">
+                        <div class="row p-0 p-sm-3">
+
+
+
+
+
+                        </div>
+
+
+
+
+                        <div class="table-responsive text-nowrap">
+
+                            <div class="card">
+                                <div class="table-responsive text-nowrap">
+                                    <table class="table TProject">
+                                        <thead>
+                                            <tr>
+                                                <th>المادة</th>
+                                                <th>الصنف</th>
+                                                <th>الشركة المصنعة</th>
+                                                <th>النوع</th>
+                                                <th>الموديل</th>
+                                                <th>المادة الفعالة </th>
+                                                <th> الوحدة </th>
+                                                <th>الكمية</th>
+                                                <th>سعر الوحدة</th>
+                                                <th>موافقةعلى القسط</th>
+
+                                            </tr>
+                                        </thead>
+                                        <tbody class="table-border-bottom-0">
+                                            @foreach (var item in Model)
+                                            {
+                                                <tr>
+                                                    <td>@item.Substance</td>
+                                                        <td> @item.Category</td>
+                                                        <td>@item.Company</td>
+                                                        <th>@item.Type</th>
+                                                        <th> @item.Model</th>
+                                                        <th>@item.ActiveSubstance</th>
+                                                        <th> @item.Unit </th>
+                                                    <th> @item.Quantity</th>
+                                                    <th> @item.UnitPrice</th>
+                                                    <th>
+                                                        <button asp-action="confrim" asp-route-id="@item.Id" class="btn btn-primary">قبول </button>
+                                                        <button asp-action="Refuse" asp-route-id="@item.Id" class="btn btn-danger">رفض </button>
+                                                    </th>
+
+                                                </tr>
+                                            }
+
+                                        </tbody>
+                                    </table>
+                                </div>
+
+
+                            </div>
+                        </div>
+
+
+
+
+
+
+                       
+
+                       
+                        </div>

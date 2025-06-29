@@ -1,0 +1,124 @@
+﻿ <!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+@model IEnumerable<ContractFarming.Models.ContractRequest>
+
+
+
+@{
+    var index = 1;
+}
+
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+
+        <!-- Users List Table -->
+        <div class="card">
+
+            <div class="card-datatable ">
+                <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper dt-bootstrap5 no-footer">
+                 
+                    <div class="table-responsive text-nowrap">
+
+                        <div class="card">
+                            <div class="table-responsive text-nowrap">
+
+                                <table class="table TProject">
+                                    <thead>
+                                        <tr>
+                                            <th>الرقم التسلسلي</th>
+                                            <th> اسم البطاقة </th>
+                                            <th>اسم المنتج</th>
+                                            <th>اسم المنتج</th>
+                                            <th>حالة الطلب</th>
+                                            <th>الاجراءات</th>
+                                            @*<th>موعد التسليم</th>*@
+                                        </tr>
+                                    </thead>
+                                    <tbody class="table-border-bottom-0">
+
+                                        @foreach (var investorrequest in Model)
+
+                                        {
+                                        <tr id="row_@investorrequest.Id">
+                                            <td> @(index++) </td>
+                                            <td>@investorrequest.InvestmrntCardname</td>
+                                            <td>@investorrequest.product.Name </td>
+                                            <th>@investorrequest.Producer.FullName</th>
+
+                                            <td>
+                                                @if (!investorrequest.StateAdmin)
+                                                {
+                                                    <p>قيد الانتظار</p>}
+                                                else
+                                                {<p> تم قبول الطلب</p>}
+
+                                            </td>
+
+                                            <th>
+                                                <div class="dropdown">
+                                                    <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown" aria-expanded="false">
+                                                        <i class="bx bx-dots-vertical-rounded"></i>
+                                                    </button>
+                                                    <div class="dropdown-menu">
+
+
+
+
+                                                        @{
+
+                                                            @if (investorrequest.StateAdmin == false || investorrequest.ConfirmUser == false)
+                                                            {
+                                                                <a asp-action="Delete" asp-route-id="@investorrequest.Id" class="dropdown-item" id="confirm-text" >
+                                                                    <i class="bx bxs-trash-alt icon-padding delet-color" aria-hidden="true"></i>
+                                                                    حذف
+                                                                </a>
+
+
+
+
+                                                            }
+                                                            @if (investorrequest.StateAdmin == true && investorrequest.ConfirmUser == true)
+                                                            {
+                                                                <a asp-action="Details" asp-route-Id="@investorrequest.Id" class="dropdown-item">
+                                                                    <i class="bx bxs-edit-alt icon-padding edit-color">
+
+                                                                    </i>
+
+                                                                    العقد
+                                                                </a>
+                                                            }
+
+                                                            else
+                                                            {
+
+                                                                <a asp-action="Index" asp-route-Id="@investorrequest.Id" class="dropdown-item">
+                                                                    <i class="bx bxs-edit-alt icon-padding edit-color">
+
+                                                                    </i>
+
+                                                                    لايتوفر عقد
+                                                                </a>
+
+                                                            }
+
+
+                                                        }
+
+
+                                        </tr>
+                                        }
+                                    </tbody>
+                                </table>
+
+
+                            </div>
+
+
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>

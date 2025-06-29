@@ -1,0 +1,149 @@
+﻿@model ContractFarming.Models.ProductionSupply
+
+@{
+    ViewData["Title"] = "المستلزمات الانتاجية";
+}
+
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+
+
+
+
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <h4 class="breadcrumb-wrapper py-3 mb-4">
+            <span class="text-muted fw-light"> <a asp-action="Index">المستلزمات الانتاجية </a> /</span>
+        </h4>
+        <div class="col-12 col-md-8 col-xl-7 mb-4 mb-md-0">
+            <div class="card ">
+
+
+                <div class="offcanvas-body flex-grow-0 mx-0">
+                    <form asp-action="Add"  onsubmit=" ">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" a />
+
+                        <div class="row">
+
+                            <div class="col-sm-12 fv-plugins-icon-container">
+                                <label asp-for="ContractId" class="control-lable">   اسم العقد</label>
+                                <select asp-for="ContractId" class="form-control" type="text" asp-items="@(new SelectList(ViewBag.Contract, "Id", "ContractTitle") )"> </select>
+                                <span asp-validation-for="ContractId" class="text-danger"></span>
+                                <div class="fv-plugins-message-container invalid-feedback"></div>
+                            </div>
+
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="Substance" class="form-label" for="phoneNumber">المادة</label>
+                                <div class="input-group input-group-merge">
+
+                                    <input type="text"
+                                           class="form-control"
+                                           asp-for="Substance" />
+                                </div>
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            </div>
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="Quntity" class="form-label" for="phoneNumber">الكمية</label>
+                                <div class="input-group input-group-merge">
+
+                                    <input type="text"
+                                           class="form-control"
+                                           asp-for="Quntity" />
+                                </div>
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            </div>
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="Company" class="form-label" for="basicFullname">الشركة</label>
+                                <div class="input-group">
+
+                                    <input type="text"
+                                           class="form-control"
+                                           asp-for="Company" />
+                                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="ActiveSubstance" for="lastName" class="form-label">المادة الفعالة</label>
+                                <div class="input-group input-group-merge has-validation">
+
+                                    <input type="text"
+                                           id="CardNumber"
+                                           class="form-control dt-post"
+                                           asp-for="ActiveSubstance" />
+                                </div>
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            </div>
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="UnitPrice" class="form-label" for="basicFullname">سعر الوحدة</label>
+                                <div class="input-group">
+
+                                    <input type="number"
+                                           class="form-control"
+                                           asp-for="UnitPrice" />
+                                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="UnitSize" class="form-label">حجم الوحدة</label>
+                                <div class="input-group input-group-merge has-validation">
+
+                                    <input asp-for="UnitSize"
+                                           type="number" id="CardNumber"
+                                           class="form-control dt-post">
+                                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="Total" for="lastName" class="form-label">الاجمالي</label>
+                                <div class="input-group input-group-merge has-validation">
+
+                                    <input asp-for="Total"
+                                           type="number" id="CardNumber"
+                                           class="form-control dt-post">
+                                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                </div>
+                            </div>
+
+
+
+
+                            <div class="col-sm-12 mt-5">
+                                <button asp-action="Add" type="submit" class="btn btn-primary data-submit me-1 me-sm-3 w-100 ">حفظ</button>
+                            </div>
+                            <div class="col-sm-12">
+                                <button asp-action="Delete" class="btn btn-outline-secondary w-100 mt-1">
+                                    إلغاء
+                                </button>
+                            </div>
+
+
+
+</form>
+                </div>
+            </div>
+
+
+
+
+            <!-- / Layout wrapper -->
+        </div>
+    </div>
+</div>
+
+</div>
+        </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

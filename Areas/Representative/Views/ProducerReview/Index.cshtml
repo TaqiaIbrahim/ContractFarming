@@ -1,0 +1,86 @@
+﻿@model IEnumerable<ContractFarming.Models.Contract>
+<!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+
+    <div class="content-wrapper">
+        <!-- Content -->
+        @{
+            ViewData["Title"] = "تقييم منتٍج";
+
+        }
+        <div class="container-xxl flex-grow-1 container-p-y">
+
+
+            <!-- Users List Table -->
+            <div class="card">
+
+
+
+
+
+
+                <div class="table-responsive text-nowrap">
+
+
+                    <table class="table TProject">
+                        <thead>
+                            <tr>
+
+                                <th>رقم العقد</th>
+                                <th>
+                                    اسم العقد
+                                </th>
+                                <th>اسم المنتج</th>
+                                <th>اسم المستثمر</th>
+                                <th>اسم البطاقة</th>
+
+
+                                <th>تقييم</th>
+
+                            </tr>
+                        </thead>
+                        <tbody class="table-border-bottom-0">
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.Id</td>
+
+                                    <th>@item.ContractTitle</th>
+
+                                    @{ @if (item.ContractRequests.InvestmrntCardname == null)
+                                        {
+                                            <th>@item.ContractRequests.Producer.FullName</th>
+                                            <th>@item.ContractRequests.Investor.FullName</th>
+                                            <th></th>
+                                        }
+                                        else
+                                        {
+                                            <th>@item.ContractRequests.Producer.FullName</th>
+                                            <th>@item.ContractRequests.Investor.FullName</th>
+                                            <th>@item.ContractRequests.InvestmrntCardname</th>
+                                        }
+
+                                    }
+                                    <th>
+                                        <a asp-action="Add">
+                                            <button class="dt-button add-new btn bg-label-primary btn-add" tabindex="0" aria-controls="DataTables_Table_0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasAddUser">
+                                                <span>
+                                                    <span class="d-none d-lg-inline-block  ">تقييم</span>
+                                                </span>
+                                            </button>
+                                        </a>
+                                    </th>
+
+                                    <th></th>
+                                </tr>
+
+
+                            }
+                        </tbody>
+                    </table>
+                </div>
+
+
+
+
+            </div>

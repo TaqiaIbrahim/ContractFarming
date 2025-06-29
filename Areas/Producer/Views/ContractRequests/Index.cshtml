@@ -1,0 +1,183 @@
+﻿@model IEnumerable<ContractFarming.Models.ContractRequest>
+
+
+@{
+    ViewData["Title"] = "طلبات التعاقد";
+    var index = 1;
+}
+
+<!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+        <!-- Users List Table -->
+        <div class="card">
+
+            <div class="card-datatable ">
+                <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper dt-bootstrap5 no-footer">
+                 
+
+
+                </div>
+                <div class="table-responsive text-nowrap">
+
+                    <div class="card">
+                        <div class="table-responsive text-nowrap">
+                            <table class="table TProject">
+                                <thead>
+                                    <tr>
+                                        <th>الرقم التسلسلي</th>
+                                        <th>
+                                            المنتج المتقاعد علية
+                                        </th>
+                                        <th>
+                                           اسم البطاقة
+                                        </th>
+                                        <th>اسم المستثمر</th>
+                                        <th>تأكيد المستثمر</th>
+
+                                        <th>حالة الطلب</th>
+                                        <th></th>
+                                        <th>الاجراءات</th>
+
+
+
+                                    </tr>
+                                </thead>
+                                <tbody class="table-border-bottom-0">
+                                  @foreach (var item in Model)
+
+                                  {
+                                      @if (item.InvestmrntCardname == null)
+                                      {
+                                    <tr id="row">
+                                        <td>
+                                            @item.Id
+                                        </td>
+                                        <td>@item.product.Name</td>
+                                        <td>@item.InvestmrntCardname</td>
+
+                                        <th>@item.Investor.FullName</th>
+                                        <td>
+
+
+                                            @if (!item.ConfirmUser)
+                                            {
+                                                <p class="card">قيد الانتظار</p>}
+                                            else
+                                            {<p> تم قبول الطلب</p>}
+
+
+
+
+
+
+                                        </td>
+
+                                        <td>
+
+
+                                            @if (!item.StateAdmin)
+                                            {
+                                                <p class="card">قيد الانتظار</p>}
+                                            else
+                                            {<p> تم قبول الطلب</p>}
+
+
+
+
+
+
+                                        </td>
+
+                                        <th> </th>
+
+                                        <th>
+                                            <div class="dropdown">
+                                                <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown" aria-expanded="false">
+                                                    <i class="bx bx-dots-vertical-rounded"></i>
+                                                </button>
+                                                <div class="dropdown-menu">
+
+
+
+
+                                                    
+
+                                                        @if (item.StateAdmin == false || item.ConfirmUser == false)
+                                                        {
+                                                            <a asp-action="Delete" asp-route-id="@item.Id" class="dropdown-item" id="confirm-text">
+                                                                <i class="bx bxs-trash-alt icon-padding delet-color" aria-hidden="true"></i>
+                                                                حذف
+                                                            </a>
+
+
+
+
+                                                        }
+                                                        @if (item.StateAdmin == true && item.ConfirmUser == true)
+                                                        {
+                                                            <a asp-action="Details" asp-route-Id="@item.Id" class="dropdown-item">
+                                                                <i class="bx bxs-edit-alt icon-padding edit-color">
+
+                                                                </i>
+
+                                                                العقد
+                                                            </a>
+                                                        }
+
+                                                        else
+                                                        {
+
+                                                            <a asp-action="Index" asp-route-Id="@item.Id" class="dropdown-item">
+                                                                <i class="bx bxs-edit-alt icon-padding edit-color">
+
+                                                                </i>
+
+                                                                لايتوفر عقد
+                                                            </a>
+
+                                                        }
+
+
+                                                   
+
+
+
+
+
+
+
+
+
+
+                                                </div>
+                                            </div>
+                                        </th>
+
+
+                                    </tr>
+                                                        }
+
+
+                                                        }
+
+                                </tbody>
+                            </table>
+                        </div>
+
+
+                 
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+

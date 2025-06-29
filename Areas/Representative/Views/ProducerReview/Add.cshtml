@@ -1,0 +1,69 @@
+﻿@model ContractFarming.Models.ProducerReview
+<div class="container-xxl flex-grow-1 container-p-y">
+
+
+    <div class="row">
+        <div class="col-md-12">
+
+            <div class="card mb-4">
+                <h5 class="card-header"> تقييم منتج</h5>
+            
+                <!-- Account -->
+
+
+                <div class="card-body">
+                    <form id="formAccountSettings" onsubmit="" enctype="multipart/form-data" method="post" role="form" asp-controller="ProducerReview" asp-action="Add">
+                        <div class="row">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <input type="hidden" asp-for="Id" />
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="Text" class="form-label">اضافة تقييم</label>
+
+                                <textarea asp-for="Text" class="form-control" id="basic-default-bio" name="basic-default-bio" rows="3" required=""></textarea>
+                                <span class="text-danger"></span>
+                                <div class="fv-plugins-message-container invalid-feedback"></div>
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            </div>
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="ReviewDate" class="form-label" for="basicFullname"> تاريخ التقييم</label>
+                                <input asp-for="ReviewDate" type="text" id="NameUser" class="form-control dt-full-name" name="NameUser" placeholder="" aria-label="132456" aria-describedby="basicFullname2" />
+
+                                <span asp-validation-for="ReviewDate" class="text-danger"></span>
+                                <div class="fv-plugins-message-container invalid-feedback"></div>
+                            </div>
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="RatingScore" class="form-label" for="basicFullname"> درجة التقييم</label>
+                                <input asp-for="RatingScore" type="text" id="NameUser" class="form-control dt-full-name" name="NameUser" placeholder="" aria-describedby="basicFullname2" />
+                                <span asp-validation-for="RatingScore" class="text-danger"></span>
+                                <div class="fv-plugins-message-container invalid-feedback"></div>
+                            </div>
+
+
+
+
+
+
+                        </div>
+                        <div class="mt-2">
+                            <button asp-controller="ProducerReview" asp-action="Add" type="submit" class="btn btn-primary me-2">حفظ </button>
+                            <button asp-action="Index" type="reset" class="btn btn-label-secondary">إلغاء</button>
+                        </div>
+                    </form>
+                </div>
+                <!-- /Account -->
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- / Content -->
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+
+
+

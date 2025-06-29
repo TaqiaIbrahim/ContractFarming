@@ -1,0 +1,105 @@
+﻿
+
+@model AddUserViewModel
+@{
+    ViewData["Title"] = "إضافة مستخدم";
+}
+
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <h4 class="breadcrumb-wrapper py-3 mb-4">
+            <span class="text-muted fw-light"> <a asp-action="Index">المستخدمين </a> /</span> إضافة مستخدم
+        </h4>
+                <div class="col-12 col-md-8 col-xl-7 mb-4 mb-md-0">
+                    <div class="card ">
+
+
+                        <div class="offcanvas-body flex-grow-0 mx-0">
+                            <form asp-action="AddOrEdit" class="add-new-record " id="valid" onsubmit=" ">
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                @*<input type="hidden" asp-for="Id" a />*@
+                                <div class="col-sm-12">
+                                    <label asp-for="Name" class="control-lable"> الاسم</label>
+                                    <input asp-for="Name" class="form-control dt-full-name" type="text" aria-label="132456" aria-describedby="basicFullname2">
+                                    <span asp-validation-for="Name" class="text-danger"></span>
+                                    <div class="fv-plugins-message-container invalid-feedback"></div>
+                                </div>
+                                <div class="col-sm-12 fv-plugins-icon-container">
+                                    <label asp-for="UserName" class="control-lable">  اسم المستخدم</label>
+                                    <input asp-for="UserName" class="form-control" type="text" aria-label="132456" aria-describedby="basicFullname2">
+                                    <span asp-validation-for="UserName" class="text-danger"></span>
+                                    <div class="fv-plugins-message-container invalid-feedback"></div>
+                               
+
+                               
+                                <div class="col-sm-12 fv-plugins-icon-container">
+                                    <label asp-for="Email" class="control-lable">  البريد الالكتروني</label>
+                                    <input asp-for="Email" class="form-control" type="text" aria-label="132456" aria-describedby="basicFullname2">
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                    <div class="fv-plugins-message-container invalid-feedback"></div>
+                                </div>
+
+
+                                <div class="fv-plugins-message-container invalid-feedback"></div>
+                                <label asp-for="Password" class="control-lable">  كلمة المرور</label>
+                                <input asp-for="Password" class="form-control" type="text" aria-label="132456" aria-describedby="basicFullname2">
+                                <span asp-validation-for="Password" class="text-danger"></span>
+
+                                <div class="fv-plugins-message-container invalid-feedback"></div>
+
+                                <div class="col-md-6">
+                                    <div class="form-group form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+                                        </label>
+                                    </div>
+                                    </div>
+                                    <br />
+                                    <br />
+                                    <h6>الصلاحيات</h6>
+                                    @for (int i = 0; i < Model.Roles.Count; i++)
+                                    {
+                                        <div class="form-check m-1">
+                                            <input type="hidden" asp-for="@Model.Roles[i].DisplayValue" />
+                                            <input asp-for="@Model.Roles[i].IsSelected" class="form-check-input" />
+                                            <label class="form-check-label" asp-for="@Model.Roles[i].IsSelected">
+                                                @Model.Roles[i].DisplayValue
+                                            </label>
+
+                                        </div>
+                                    }
+
+
+
+                                    <div class="col-sm-12 mt-5">
+                                        <button asp-action="Add" type="submit" class="btn btn-primary data-submit me-1 me-sm-3 w-100 ">حفظ</button>
+                                    </div>
+                                    <div class="col-sm-12">
+                                        <button asp-action="Index" class="btn btn-outline-secondary w-100 mt-1">
+                                            إلغاء
+                                        </button>
+                                    </div>
+
+
+
+                            </form>
+                        </div>
+                    </div>
+
+
+
+
+                    <!-- / Layout wrapper -->
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+

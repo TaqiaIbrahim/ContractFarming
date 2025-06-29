@@ -1,0 +1,100 @@
+﻿@model ContractFarming.Models.Contract
+@{
+    ViewData["Title"] = "العقود";
+}
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+
+
+
+
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <h4 class="breadcrumb-wrapper py-3 mb-4">
+            <span class="text-muted fw-light"> <a asp-action="Index">العقود </a> /</span> إضافةعقد
+        </h4>
+        <div class="col-12 col-md-8 col-xl-7 mb-4 mb-md-0">
+            <div class="card ">
+
+
+                <div class="offcanvas-body flex-grow-0 mx-0">
+                    <form asp-action="AddOrEdit" class="add-new-record " id="valid" onsubmit=" " method="post" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" a />
+
+
+
+                        <div class="col-sm-12">
+
+                            <label asp-for="ContractRequestId" class="control-lable">رقم الطلب</label>
+                            <input asp-for="ContractRequestId" class="form-control dt-full-name" type="text" placeholder="رقم الطلب" aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="ContractRequestId" class="text-danger"></span>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+
+                        <div class="col-sm-12">
+
+                            <label asp-for="ContractTitle" class="control-lable">عنوان العقد</label>
+                            <input asp-for="ContractTitle" class="form-control dt-full-name" type="text" placeholder="عنوان العقد" aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="ContractTitle" class="text-danger"></span>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+                        <div class="fv-plugins-message-container invalid-feedback"></div>
+
+
+                        <div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="DeliveryDate" class="control-lable">   تحديد تاريخ التوقيع</label>
+                            <input asp-for="DeliveryDate" class="form-control" type="date" id="Price" class="form-control dt-full-name" name="Price"
+                                   placeholder="" aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="DeliveryDate" class="text-danger"></span>
+
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+                     
+
+                        <div class="col-sm-12">
+                            <div class="Form-group ">
+                                <label asp-for="ContractTitle" class="control-lable ">صيغة العقد</label>
+                                <br />
+                                <input asp-for="ContractForm" type="file" class="form-control" id="inputGroupFile04" id="File" name="File"
+                                       aria-describedby="inputGroupFileAddon04" aria-label="Upload">
+                                <span asp-validation-for="ContractForm" class="text-danger"></span>
+                                <div class="fv-plugins-message-container invalid-feedback"></div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="col-sm-12 mt-5">
+                            <button asp-action="Add" type="submit" class="btn btn-primary data-submit me-1 me-sm-3 w-100 ">حفظ</button>
+                        </div>
+                        <div class="col-sm-12">
+                            <button asp-action="Index" class="btn btn-outline-secondary w-100 mt-1">
+                                إلغاء
+                            </button>
+                        </div>
+
+
+
+                    </form>
+                </div>
+            </div>
+
+
+
+
+            <!-- / Layout wrapper -->
+        </div>
+    </div>
+</div>
+
+</div>
+        </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+

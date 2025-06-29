@@ -1,0 +1,1504 @@
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.AssemblyInfoInputs.cache
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.AssemblyInfo.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csproj.CoreCompileInputs.cache
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorAssemblyInfo.cache
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorAssemblyInfo.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.TagHelpers.input.cache
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.TagHelpers.output.cache
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorCoreGenerate.cache
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Add.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Details.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Contract\AddOrEdit.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Contract\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Installment\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\AddOrEdit.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\Details.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Location\AddOrEdit.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Location\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PriceSeasonProduct\AddOrEdit.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PriceSeasonProduct\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Price\AddOrEdit.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Price\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\AddOrEdit.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product_Season\AddOrEdit.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product_Season\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Report\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\ManagePremissions.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\_RoleForm.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Season\AddOrEdit.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Season\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SeedInstructions\AddOrEdit.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SeedInstructions\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Add.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\ManageRoles.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ContractRequests\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Driver\AddOrEdit.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Driver\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Home\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InstallmentReview\Add.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InstallmentReview\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\Financial_Installment.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\InkindInstallment.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\ViewAll.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InvestmentRequests\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ReciptStatement\AddOrEdit.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ReciptStatement\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Report\Add.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Report\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\_ViewImports.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\_ViewStart.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Notification.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorTargetAssemblyInfo.cache
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorTargetAssemblyInfo.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.pdb
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.StaticWebAssets.xml
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.exe
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.deps.json
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.runtimeconfig.json
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.runtimeconfig.dev.json
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.pdb
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.Views.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.Views.pdb
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.Views.pdb
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csproj.CopyComplete
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\ContractFarming.StaticWebAssets.Manifest.cache
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\ContractFarming.StaticWebAssets.xml
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.genruntimeconfig.cache
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csprojAssemblyReference.cache
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\AddFinance\Add.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\AddFinance\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\ContractRequest\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Financial_Installment\AddFinancial_Installment.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Financial_Installment\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Home\EditPersonal.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Home\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InKindInstallment\AddInKindInstallment.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InKindInstallment\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\AddInstallment.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\InstallmentNumber.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InvestorRequest\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Profile\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Report\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\RepresentativeManagment\Add.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\RepresentativeManagment\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ContractReview\Add.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ContractReview\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\Home\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ProducerReview\Add.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ProducerReview\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ReciptStatement\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\_ViewImports.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\_ViewStart.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\AddContractRequest\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\AddProductioSupply\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\ContractualProceduresManual\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\InvestmentInvestor\InvestmentCard.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\InvestmentInvestor\InvestmentCardName.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\InvestmentInvestor\InvestorRequest.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Index.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Prices.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\ProductDetails.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\ProductName.cshtml.g.cs
+C:\Users\Taqia\source\repos\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Products.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\appsettings.json
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.StaticWebAssets.xml
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.exe
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.deps.json
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.runtimeconfig.json
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.runtimeconfig.dev.json
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.pdb
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.Views.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.Views.pdb
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.AssemblyInfoInputs.cache
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.AssemblyInfo.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorAssemblyInfo.cache
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorAssemblyInfo.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.TagHelpers.input.cache
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.TagHelpers.output.cache
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorCoreGenerate.cache
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Add.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Details.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Contract\AddOrEdit.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Contract\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Installment\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\AddOrEdit.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\Details.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Location\AddOrEdit.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Location\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PriceSeasonProduct\AddOrEdit.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PriceSeasonProduct\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\AddOrEdit.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product_Season\AddOrEdit.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product_Season\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Report\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\ManagePremissions.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\_RoleForm.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Season\AddOrEdit.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Season\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SeedInstructions\AddOrEdit.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SeedInstructions\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Add.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\ManageRoles.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\AddFinance\Add.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\AddFinance\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\ContractRequest\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Financial_Installment\AddFinancial_Installment.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Financial_Installment\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Home\EditPersonal.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Home\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InKindInstallment\AddInKindInstallment.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InKindInstallment\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\AddInstallment.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\InstallmentNumber.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InvestorRequest\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Report\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\RepresentativeManagment\Add.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\RepresentativeManagment\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Shared\_Layout.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\_ViewImports.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\_ViewStart.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ContractRequests\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Driver\AddOrEdit.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Driver\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Home\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InstallmentReview\Add.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InstallmentReview\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\Financial_Installment.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\InkindInstallment.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InvestmentRequests\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ReciptStatement\AddOrEdit.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ReciptStatement\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Report\Add.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Report\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Shared\_Layout.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\_ViewImports.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\_ViewStart.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ContractReview\Add.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ContractReview\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\Home\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ProducerReview\Add.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ProducerReview\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ReciptStatement\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\Shared\_Layout.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\_ViewImports.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\_ViewStart.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\AddContractRequest\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\AddProductioSupply\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\ContractualProceduresManual\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\InvestmentInvestor\InvestmentCard.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\InvestmentInvestor\InvestmentCardName.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\InvestmentInvestor\InvestorRequest.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Index.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Prices.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\ProductDetails.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\ProductName.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Products.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Notification.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorTargetAssemblyInfo.cache
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorTargetAssemblyInfo.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.Views.pdb
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csproj.CopyComplete
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\ContractFarming.StaticWebAssets.Manifest.cache
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\ContractFarming.StaticWebAssets.xml
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.pdb
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.genruntimeconfig.cache
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csprojAssemblyReference.cache
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Installment\Financial_Installment.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Installment\InkindInstallment.cshtml.g.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Dapper.dll
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csproj.CoreCompileInputs.cache
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.MvcApplicationPartsAssemblyInfo.cs
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.MvcApplicationPartsAssemblyInfo.cache
+F:\المشروع قبل حذف جدول الزوار\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\libman.json
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\appsettings.json
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\libman.json
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.StaticWebAssets.xml
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.exe
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.deps.json
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.runtimeconfig.json
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.runtimeconfig.dev.json
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.pdb
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.Views.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.Views.pdb
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Dapper.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\New folder (2)\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csprojAssemblyReference.cache
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.AssemblyInfoInputs.cache
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.AssemblyInfo.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csproj.CoreCompileInputs.cache
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.MvcApplicationPartsAssemblyInfo.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.MvcApplicationPartsAssemblyInfo.cache
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorAssemblyInfo.cache
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorAssemblyInfo.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.TagHelpers.input.cache
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.TagHelpers.output.cache
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorCoreGenerate.cache
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Add.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Details.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Contract\AddOrEdit.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Contract\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Installment\Financial_Installment.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Installment\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Installment\InkindInstallment.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\AddOrEdit.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\Details.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Location\AddOrEdit.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Location\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PriceSeasonProduct\AddOrEdit.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PriceSeasonProduct\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\AddOrEdit.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product_Season\AddOrEdit.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product_Season\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Report\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\ManagePremissions.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\_RoleForm.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Season\AddOrEdit.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Season\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SeedInstructions\AddOrEdit.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SeedInstructions\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Add.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\ManageRoles.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\AddFinance\Add.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\AddFinance\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\ContractRequest\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Financial_Installment\AddFinancial_Installment.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Financial_Installment\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Home\EditPersonal.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Home\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InKindInstallment\AddInKindInstallment.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InKindInstallment\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\AddInstallment.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\InstallmentNumber.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InvestorRequest\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Report\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\RepresentativeManagment\Add.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\RepresentativeManagment\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Shared\_Layout.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\_ViewImports.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\_ViewStart.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ContractRequests\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Driver\AddOrEdit.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Driver\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Home\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InstallmentReview\Add.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InstallmentReview\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\Financial_Installment.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\InkindInstallment.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InvestmentRequests\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ReciptStatement\AddOrEdit.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ReciptStatement\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Report\Add.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Report\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Shared\_Layout.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\_ViewImports.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\_ViewStart.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ContractReview\Add.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ContractReview\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\Home\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ProducerReview\Add.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ProducerReview\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ReciptStatement\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\Shared\_Layout.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\_ViewImports.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\_ViewStart.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\AddContractRequest\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\AddProductioSupply\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\ContractualProceduresManual\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\InvestmentInvestor\InvestmentCard.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\InvestmentInvestor\InvestmentCardName.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\InvestmentInvestor\InvestorRequest.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Index.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Prices.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\ProductDetails.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\ProductName.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Products.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Notification.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorTargetAssemblyInfo.cache
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorTargetAssemblyInfo.cs
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.Views.pdb
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csproj.CopyComplete
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\ContractFarming.StaticWebAssets.Manifest.cache
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\ContractFarming.StaticWebAssets.xml
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.dll
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.pdb
+F:\New folder (2)\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.genruntimeconfig.cache
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.AssemblyInfoInputs.cache
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.AssemblyInfo.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csproj.CoreCompileInputs.cache
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.MvcApplicationPartsAssemblyInfo.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.MvcApplicationPartsAssemblyInfo.cache
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorAssemblyInfo.cache
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorAssemblyInfo.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.dll
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.pdb
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.TagHelpers.input.cache
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.TagHelpers.output.cache
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorCoreGenerate.cache
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Add.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Details.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Installment\Financial_Installment.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Installment\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Installment\InkindInstallment.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\AddOrEdit.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\Details.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Location\AddOrEdit.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Location\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\AddOrEdit.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product_Season\AddOrEdit.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product_Season\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Report\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\ManagePremissions.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\_RoleForm.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Season\AddOrEdit.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Season\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SeedInstructions\AddOrEdit.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SeedInstructions\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Add.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\ManageRoles.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\AddFinance\Add.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\AddFinance\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Home\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InvestorRequest\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Report\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\RepresentativeManagment\Add.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\RepresentativeManagment\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Shared\_Layout.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\_ViewImports.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\_ViewStart.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ContractRequests\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Driver\AddOrEdit.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Driver\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Home\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InstallmentReview\Add.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InstallmentReview\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\Financial_Installment.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\InkindInstallment.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InvestmentRequests\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ReciptStatement\AddOrEdit.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ReciptStatement\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Report\Add.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Report\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Shared\_Layout.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\_ViewImports.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\_ViewStart.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ContractReview\Add.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ContractReview\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\Home\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ProducerReview\Add.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ProducerReview\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ReciptStatement\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\Shared\_Layout.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\_ViewImports.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\_ViewStart.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\ContractualProceduresManual\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\InvestmentInvestor\InvestmentCard.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\InvestmentInvestor\InvestmentCardName.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Prices.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\ProductDetails.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\ProductName.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Products.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Notification.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorTargetAssemblyInfo.cache
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorTargetAssemblyInfo.cs
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\libman.json
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.StaticWebAssets.xml
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.exe
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.deps.json
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.runtimeconfig.json
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.runtimeconfig.dev.json
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.pdb
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.Views.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.Views.pdb
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Final\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.Views.pdb
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csproj.CopyComplete
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\ContractFarming.StaticWebAssets.Manifest.cache
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\ContractFarming.StaticWebAssets.xml
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.genruntimeconfig.cache
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Notification\Add.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Notification\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\AddOrEdit.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ContractRequests\Add.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ContractRequests\Details.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ContractRequests\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ContractRequests\Index1.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestorRequest\Add.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestorRequest\Details.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestorRequest\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestorRequest\Index1.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\ContractRequests\Details.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\ContractRequests\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InvestorRequest\Details.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\AddProductioSupply\Add.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\AddProductioSupply\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ContractRequests\Details.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InvestmentRequests\Details.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\SeedInstruction\Index.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\AddFin.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\AddInKindInstallment.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\Financial_Installment.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\InkindInstallment.cshtml.g.cs
+D:\Final\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csprojAssemblyReference.cache
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\libman.json
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.StaticWebAssets.xml
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.exe
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.deps.json
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.runtimeconfig.json
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.runtimeconfig.dev.json
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.pdb
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.Views.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ContractFarming.Views.pdb
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Final Version\ContractFarming\ContractFarming\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.AssemblyInfoInputs.cache
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.AssemblyInfo.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csproj.CoreCompileInputs.cache
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.MvcApplicationPartsAssemblyInfo.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.MvcApplicationPartsAssemblyInfo.cache
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorAssemblyInfo.cache
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorAssemblyInfo.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.TagHelpers.input.cache
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.TagHelpers.output.cache
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorCoreGenerate.cache
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Add.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Details.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Advertisment\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\AddOrEdit.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ContractRequests\Add.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ContractRequests\Details.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ContractRequests\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ContractRequests\Index1.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Installment\Financial_Installment.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Installment\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Installment\InkindInstallment.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\AddOrEdit.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\Details.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestmentCard\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestorRequest\Add.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestorRequest\Details.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestorRequest\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InvestorRequest\Index1.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Location\AddOrEdit.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Location\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\AddOrEdit.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product_Season\AddOrEdit.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product_Season\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Report\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\ManagePremissions.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Roles\_RoleForm.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Season\AddOrEdit.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Season\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SeedInstructions\AddOrEdit.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SeedInstructions\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Add.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Users\ManageRoles.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\AddFinance\Add.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\AddFinance\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\ContractRequests\Details.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\ContractRequests\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Home\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\AddFin.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\AddInKindInstallment.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\Financial_Installment.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InstallmentManagment\InkindInstallment.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InvestorRequest\Details.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\InvestorRequest\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Report\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\RepresentativeManagment\Add.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\RepresentativeManagment\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\Shared\_Layout.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\_ViewImports.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Investor\Views\_ViewStart.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\AddProductioSupply\Add.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\AddProductioSupply\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ContractRequests\Details.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ContractRequests\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Driver\AddOrEdit.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Driver\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Home\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InstallmentReview\Add.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InstallmentReview\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\Financial_Installment.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Installment\InkindInstallment.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InvestmentRequests\Details.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\InvestmentRequests\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ReciptStatement\AddOrEdit.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\ReciptStatement\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Report\Add.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Report\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\Shared\_Layout.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\_ViewImports.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Producer\Views\_ViewStart.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ContractReview\Add.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ContractReview\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\Home\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ProducerReview\Add.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ProducerReview\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\ReciptStatement\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\Shared\_Layout.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\_ViewImports.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Areas\Representative\Views\_ViewStart.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\ContractualProceduresManual\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\InvestmentInvestor\InvestmentCard.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\InvestmentInvestor\InvestmentCardName.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Prices.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\ProductDetails.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\ProductName.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Investment\Products.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\SeedInstruction\Index.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Notification.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorTargetAssemblyInfo.cache
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.RazorTargetAssemblyInfo.cs
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.Views.pdb
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csproj.CopyComplete
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\ContractFarming.StaticWebAssets.Manifest.cache
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\ContractFarming.StaticWebAssets.xml
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.dll
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.pdb
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.genruntimeconfig.cache
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.csproj.AssemblyReference.cache
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\ContractFarming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\ContractFarming.StaticWebAssets.Pack.cache
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ContractFarming.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ContractFarming.props
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ContractFarming.props
+D:\Final Version\ContractFarming\ContractFarming\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ContractFarming.props

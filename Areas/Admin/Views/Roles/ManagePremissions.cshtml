@@ -1,0 +1,93 @@
+﻿@model PermissionFormViewModel
+@{
+    ViewData["Title"] = "المستخدمين";
+}
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+
+
+
+
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <h4 class="breadcrumb-wrapper py-3 mb-4">
+                <span class="text-muted fw-light"> <a asp-action="Index">الصلاحيات  </a> /</span> إضافة صلاحية
+            </h4>
+        <div class="col-12 col-md-8 col-xl-7 mb-4 mb-md-0">
+            <div class="card ">
+
+
+                <div class="offcanvas-body flex-grow-0 mx-0">
+                    <form method="post" asp-action="Add" class="add-new-record " id="valid" onsubmit=" ">
+                        <div class="card-header">
+                            <h2>@Model.RoleName</h2>
+                            إضافة/تعديل الصلاحيات
+                        </div>
+                        <hr />
+                        <div class="card-body">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <input type="hidden" asp-for="RoleId" a />
+                            <table class="table table-striped">
+                                <thead>
+                                <th></th>
+                                <th>Module</th>
+                                <th>Premissions</th>
+                                </thead>
+                                <tbody>
+
+                                    @for (int i = 0; i < Model.RoleClaims.Count; i++)
+                                    {
+                                    <tr>
+                                        <td>
+                                            <div class="form-check m-1">
+                                                <input type="hidden" asp-for="@Model.RoleClaims[i].DisplayValue" />
+                                                <input asp-for="@Model.RoleClaims[i].IsSelected" class="form-check-input" />
+                                                @*<label class="form-check-label" asp-for="@Model.RoleClaims[i].IsSelected">
+                                                        @Model.RoleClaims[i].DisplayValue
+                                                    </label>*@
+
+                                            </div>
+                                        </td>
+                                        <td>@Model.RoleClaims[i].DisplayValue.Split('.')[3]   </td>
+                                        <td>@Model.RoleClaims[i].DisplayValue.Split('.')[2]   </td>
+                                    </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="card-footer">
+
+                            <button asp-action="ManagePremissions" type="submit" class="btn btn-primary  ml-4 mr-5">حفظ</button>
+
+
+                            <button asp-action="Index" class="btn btn-outline-secondary ml-5">
+                                إلغاء
+                            </button>
+
+                        </div>
+
+
+                    </form>
+                </div>
+            </div>
+
+
+
+
+            <!-- / Layout wrapper -->
+        </div>
+    </div>
+</div>
+
+</div>
+        </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+
+

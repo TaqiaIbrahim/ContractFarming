@@ -1,0 +1,149 @@
+﻿@model IEnumerable<ContractFarming.Models.Product>
+
+@{
+    ViewData["Title"] = " المنتجات";
+}
+
+<!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+        <!-- Users List Table -->
+        <div class="card">
+
+            <div class="row gx-3 gy-2 align-items-center mt-1 mb-4 ms-1 me-1">
+
+                <div class="col-md-12">
+                    <div class="dt-buttons btn-add">
+
+
+                        <div class=" justify-content-end   d-grid gap-2 ">
+                            <a asp-action="AddOrEdit">
+                                <button class="dt-button add-new btn btn-primary mt-3 ml-5">
+                                    <span>
+                                        <i class="bx bx-plus me-0 me-lg-2 p-2 "></i>
+                                        <span class="d-none d-lg-inline-block">   إضافة منتجات     </span>
+                                    </span>
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+
+
+                </div>
+
+
+
+                <div class="table-responsive text-nowrap">
+                    @if (!Model.Any())
+                    {
+                        <div class="alert alert-warning" role="alert">
+                            لا توجد اي منتجات بعد
+                        </div>
+                    }
+                    else
+                    {
+
+                        <table class="table TProject">
+                            <thead>
+                                <tr>
+
+                                    <th>رقم المنتًج</th>
+                                    <th>الاسم</th>
+                                    <th> نوع المنتج</th>
+                                    <th>صورة المنتًج</th>
+                                    @*<th>
+                                        النوع
+                                    </th>*@
+                                 
+                                    <th>المناخ</th>
+                                    <th>المعالم</th>
+                                    @*<th>المنطقة</th>*@
+                                    <th>السعر</th>
+
+
+                                    <th>جودة المنتج</th>
+                                    <th>مدة الزراعة</th>
+                                    <th>موعد الحصاد</th>
+                                    <th>دراسة الجدوى</th>
+                                    <th>الخطة الإستراتيجية</th>
+                                    <th>سلسلة القيمة</th>
+                                    <th>الإجراءات</th>
+                                </tr>
+                            </thead>
+                            <tbody class="table-border-bottom-0">
+                              
+                                    @foreach (var item in Model)
+                                    {
+                                <tr>
+                                    <th>@item.Id</th>
+                                    <td>@item.Name</td>
+                                    @*<td> @item.Categories.ProductType</td>*@
+                                    <th>@item.ProductType</th>
+                                    <td> <img src="~/uploads/@item.ImageUrl" class="rounded-circle" height="40" width="40" asp-append-version="true" /></td>
+
+
+                                    <td> @item.Climate</td>
+                                    <th>
+                                        @item.ArgiculturalLandMarks
+                                    </th>
+                                    @*<th>@item.Product_Location</th>*@
+                                    <th>@item.Prices</th>
+                                    <th>@item.ProductQuality</th>
+
+
+
+                                    <th>@item.GrowingTime</th>
+                                    <th>@item.HarvestDate</th>
+                                    <th>@item.Feasibility</th>
+                                    <th>@item.StrategicPlan</th>
+                                    <th>@item.FoodValueChain</th>
+
+
+
+
+
+                                    <td>
+                                        <div class="dropdown">
+                                            <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown"
+                                                    aria-expanded="false">
+                                                <i class="bx bx-dots-vertical-rounded"></i>
+                                            </button>
+                                            <div class="dropdown-menu">
+
+                                                <a asp-action="AddOrEdit" asp-route-id="@item.Id" class="dropdown-item">
+                                                    <i class="bx bxs-edit-alt icon-padding edit-color"></i>
+
+                                                    تعديل
+                                                </a>
+                                                <a asp-action="Delete" asp-route-id="@item.Id" class="dropdown-item" onclick="return confirm('هل تريد حذف هذا الحقل؟')">
+                                                    <i class="bx bxs-edit-alt icon-padding edit-color"></i>
+
+                                                    حذف
+                                                </a>
+
+
+
+
+
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+
+                                    }
+
+                            </tbody>
+                        </table>
+                    }
+                    </div>
+
+
+              
+            </div>
+                </div>
+            </div>
+        </div>

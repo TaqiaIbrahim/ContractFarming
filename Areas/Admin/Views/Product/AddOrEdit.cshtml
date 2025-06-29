@@ -1,0 +1,179 @@
+﻿
+@model ContractFarming.Models.Product
+@{
+    ViewData["Title"] = "المنتجات";
+}
+
+
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+
+
+
+
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <h4 class="breadcrumb-wrapper py-3 mb-4">
+            <span class="text-muted fw-light"> <a asp-action="Index">المنتجات </a> /</span> إضافة منتجات
+        </h4>
+        <div class="col-12 col-md-8 col-xl-7 mb-4 mb-md-0">
+            <div class="card ">
+
+
+                <div class="offcanvas-body flex-grow-0 mx-0">
+                    <form asp-action="AddOrEdit" class="add-new-record " id="valid" onsubmit=" " method="post" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" a />
+                        <div class="col-sm-12">
+                            <label asp-for="Name" class="control-lable"> الاسم</label>
+                            <input asp-for="Name" class="form-control dt-full-name" type="text" aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+                
+
+                       
+                        <div class="col-sm-12">
+                            <label asp-for="ImageUrl" class="form-label">صورة المنتج</label>
+                            <div class="input-group">
+                                <input asp-for="ImageUrl" type="file" accept="image/*" class="form-control" id="inputGroupFile04" id="File" name="File"
+                                       aria-describedby="inputGroupFileAddon04" aria-label="Upload">
+
+                            </div>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+                                            <div class="col-sm-12">
+                        <label asp-for=" CategoryId" class="control-lable"> نوع المنتج</label>
+                        <select asp-for="CategoryId" class="form-control " asp-items='@( new SelectList (ViewBag.Category,"Id","ProductType"))'></select>
+                        <span asp-validation-for=" CategoryId" class="text-danger"></span>
+                        <div class="fv-plugins-message-container invalid-feedback"></div>
+                    </div>
+
+                        <div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="Climate" class="form-label" for="basicFullname">المناخ </label>
+                            <input asp-for="Climate" type="text" id="NameUser" class="form-control dt-full-name" name="Climate"
+                                   placeholder=" المناخ " aria-label="132456" aria-describedby="basicFullname2">
+
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+
+                        </div>
+                        <div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="ArgiculturalLandMarks" class="form-label" for="basicFullname">المعالم</label>
+                            <input asp-for="ArgiculturalLandMarks" type="text" id="NameUser" class="form-control dt-full-name" name="ArgiculturalLandMarks"
+                                   aria-label="132456" aria-describedby="basicFullname2">
+
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+                        <div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="ProductQuality" class="form-label" for="basicFullname">جودة المنتج</label>
+                            <input asp-for="ProductQuality" type="text" id="NameUser" class="form-control dt-full-name" name="ProductQuality"
+                                   aria-label="132456" aria-describedby="basicFullname2">
+
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+
+                        </div>
+                        @*<div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="ProductType" class="form-label" for="basicFullname">نوع المنتج</label>
+                            <input asp-for="ProductType" type="text" id="NameUser" class="form-control dt-full-name" name="ProductQuality"
+                                   aria-label="132456" aria-describedby="basicFullname2">
+
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+
+                        </div>*@
+                        <div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="Prices" class="form-label" for="basicFullname">سعر المنتج</label>
+                            <input asp-for="Prices" type="text" id="NameUser" class="form-control dt-full-name" name="NameUser"
+                                   aria-label="132456" aria-describedby="basicFullname2">
+
+                            <span asp-validation-for="Prices" class="text-danger"></span>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+
+
+
+
+                        <div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="GrowingTime" class="form-label" for="basicFullname">المدة الزراعية</label>
+                            <input asp-for="GrowingTime" type="text" id="NameUser" class="form-control dt-full-name" name="NameUser"
+                                   aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="GrowingTime" class="text-danger"></span>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+
+                        </div>
+
+                        <div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="HarvestDate" class="form-label" for="basicFullname">موعد الحصاد</label>
+                            <input asp-for="HarvestDate" type="text" id="NameUser" class="form-control dt-full-name" name="NameUser"
+                                   aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="HarvestDate" class="text-danger"></span>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Feasibility" class="form-label" for="basicEmail">دراسة الجدوي</label>
+                            <div class="input-group">
+                                <input asp-for="Feasibility" type="file" class="form-control" id="inputGroupFile04" id="File" name="File"
+                                       aria-describedby="inputGroupFileAddon04" aria-label="Upload">
+
+                            </div>
+                            <span asp-validation-for="Feasibility" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="StrategicPlan" class="form-label" for="basicEmail">الخطة الإستراتيجبة</label>
+                            <div class="input-group">
+                                <input asp-for="StrategicPlan" type="file" class="form-control" id="inputGroupFile04" id="File" name="File"
+                                       aria-describedby="inputGroupFileAddon04" aria-label="Upload">
+
+                            </div>
+                            <span asp-validation-for="StrategicPlan" class="text-danger"></span>
+
+
+
+                            <div class="form-group">
+                                <label asp-for="FoodValueChain" class="form-label" for="basicEmail">سلسلة القيمة</label>
+                                <div class="input-group">
+                                    <input asp-for="FoodValueChain" type="file" class="form-control" id="inputGroupFile04" id="File" name="File"
+                                           aria-describedby="inputGroupFileAddon04" aria-label="Upload">
+
+                                </div>
+                                <span asp-validation-for="FoodValueChain" class="text-danger"></span>
+
+
+
+                              
+
+
+                                <div class="col-sm-12 mt-5">
+                                    <button asp-action="AddOrEdit" type="submit" class="btn btn-primary data-submit me-1 me-sm-3 w-100 ">حفظ</button>
+                                </div>
+                                <div class="col-sm-12">
+                                    <button asp-action="Index" class="btn btn-outline-secondary w-100 mt-1">
+                                        إلغاء
+                                    </button>
+                                </div>
+
+
+
+                    </form>
+                </div>
+            </div>
+
+
+
+
+            <!-- / Layout wrapper -->
+        </div>
+    </div>
+</div>
+
+</div>
+        </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

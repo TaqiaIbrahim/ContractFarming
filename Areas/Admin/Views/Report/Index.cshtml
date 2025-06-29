@@ -1,0 +1,98 @@
+﻿@model IEnumerable<ContractFarming.Models.Report>
+
+
+@{
+    ViewData["Title"] = "البلاغات";
+}
+
+
+<!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+        <!-- Users List Table -->
+        <div class="card">
+
+            <div class="row gx-3 gy-2 align-items-center mt-1 mb-4 ms-1 me-1">
+
+                
+
+
+
+            </div>
+            <div class="table-responsive text-nowrap">
+                @if (!Model.Any())
+                {
+                    <div class="alert alert-warning" role="alert">
+                        لا توجد اي بلاغات بعد
+                    </div>
+                }
+                else
+                {
+                    <table class="table TProject">
+                        <thead>
+                            <tr>
+                                <th>رقم البلاغ</th>
+                                <th>اسم المنتج</th>
+                                <th>
+                                    اسم العقد
+                                </th>
+                                <th>اسم المستثمر</th>
+                                <th> البلاغ</th>
+                                <th>تأكيد المستثمر</th>
+                       
+
+                            </tr>
+                        </thead>
+                        <tbody class="table-border-bottom-0">
+                           
+                                @foreach (var item in Model)
+                                {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.Producer.FullName</td>
+                                <td> @item.Contract.ContractTitle</td>
+                                <th>@item.Contract.ContractRequests.Investor.FullName</th>
+                                <th>@item.Text</th>
+
+                                <th>
+                                    @if (item.Contract.InvestorConfirm)
+                                    {
+                                        <p>تم التأكيد</p>
+                                    }
+                                    else
+                                    {
+                                        <p>لم يتم التأكيد بعد</p>
+                                    }
+                            </th>
+
+                            </tr>
+
+                                    }
+
+
+
+
+                        </tbody>
+                    </table>
+                }
+                </div>
+
+
+         
+        </div>
+    </div>
+</div>
+
+
+
+
+
+ 
+
+
+
+

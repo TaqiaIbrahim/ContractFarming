@@ -1,0 +1,156 @@
+﻿@model IEnumerable<ContractFarming.Models.ContractRequest>
+
+@{
+    ViewData["Title"] = "طلبات الإستثمار";
+}
+
+
+<!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+        <!-- Users List Table -->
+        <div class="card">
+
+            <div class="card-datatable ">
+                <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper dt-bootstrap5 no-footer">
+                    
+                    <div class="table-responsive text-nowrap">
+
+                        <div class="card">
+                            <div class="table-responsive text-nowrap">
+                                <table class="table TProject">
+                                    <thead>
+                                        <tr>
+                                            <th>الرقم التسلسلي</th>
+                                            <th>  اسم البطاقة  </th>
+                                            <th>
+                                                اسم المستثمر
+                                            </th>
+                                            <th>اسم المنتج</th>
+                                            @*<th> موعد التسليم</th>*@
+
+                                            <th>حالة الطلب</th>
+
+
+                                        </tr>
+                                    </thead>
+                                    <tbody class="table-border-bottom-0">
+                                        @foreach (var item in Model)
+                                        {
+
+
+                                               @if (item.InvestmrntCardname !=null) {
+                                        <tr>
+
+                                            <td>@item.Id</td>
+                                            <td>@item.InvestmrntCardname </td>
+                                            <td>@item.Investor.FullName</td>
+                                            <th>@item.product.Name</th>
+                                            @*<th>@item.DeliveryDate</th>*@
+                                            @*<th>@item.RequestConfirmation</th>*@
+                                            <td>
+
+                                                @if (!item.ConfirmUser)
+                                                {
+                                                    <p class="card">قيد الانتظار</p>}
+                                                else
+                                                {<p> تم قبول الطلب</p>}
+
+                                            </td>
+
+                                            <th>
+
+                                            <th>
+                                                <div class="dropdown">
+                                                    <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown" aria-expanded="false">
+                                                        <i class="bx bx-dots-vertical-rounded"></i>
+                                                    </button>
+                                                    <div class="dropdown-menu">
+
+                                                        <a asp-action="Confirm" asp-route-Id="@item.Id" class="dropdown-item">
+                                                            <i class="bx bxs-edit-alt icon-padding edit-color">
+
+                                                            </i>
+
+                                                            تأكيدالطلب
+                                                        </a>
+
+
+                                                        @{ @if (item.StateAdmin == true && item.ConfirmUser == true)
+                                                            {
+                                                                <a asp-action="Details" asp-route-Id="@item.Id" class="dropdown-item">
+                                                                    <i class="bx bxs-edit-alt icon-padding edit-color">
+
+                                                                    </i>
+
+                                                                    العقد
+                                                                </a>
+                                                            }
+
+                                                            else
+                                                            {
+                                                                <a asp-action="Index" asp-route-Id="@item.Id" class="dropdown-item">
+                                                                    <i class="bx bxs-edit-alt icon-padding edit-color">
+
+                                                                    </i>
+
+                                                                    لايتوفر عقد
+                                                                </a>
+                                                            }
+
+
+                                                        }
+
+
+
+
+                                                    </div>
+                                                </div>
+                                            </th>
+
+
+
+
+
+                                        </tr>
+
+
+
+                                                                }
+
+
+
+
+                                                                }
+
+                                    </tbody>
+                                </table>
+                            </div>
+
+
+                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Offcanvas to add new user -->
+            
+        </div>
+    </div>
+
+
+
+
+
+
+</div>
+
+<!-- / Layout wrapper -->
+      </div>
+    </div>
+  </div>
+

@@ -1,0 +1,193 @@
+﻿@*@model ContractFarming.ViewModel.ProductDetailesVM*@
+@model ContractFarming.Models.Product
+<!-- Navbar Start -->
+<nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0">
+        <a asp-controller="Investment" asp-action="ProductName" class="navbar-brand d-flex align-items-center">
+            <h1 class="m-0">
+                <i class="fa fa-building text-primary me-3"></i>رجوع
+            </h1>
+        </a>
+        <button type="button"
+                class="navbar-toggler"
+                data-bs-toggle="collapse"
+                data-bs-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+    </nav>
+<!-- Navbar End -->
+<!-- Page Header Start -->
+<!-- Page Header End -->
+<!-- Service Start -->
+<!-- Service End -->
+ <!-- Appointment Start -->
+
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5">
+            <div class="col-lg-5 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="border-start border-5 border-primary ps-4 mb-5">
+                    <h6 class="text-body text-uppercase mb-2"></h6>
+
+                    <h1 class="display-6 mb-0" style="    font-size: 1.5rem;">
+                        اسم المنتج:@Model.Name
+
+                        <img class="img-fluid" @*src="~/uploads/@Model.ImageUrl"*@ src='@Url.Content("~/uploads/" + @Model.ImageUrl)' alt="" style="    margin-top: 1rem;" />
+                        <input type="hidden" asp-for="ImageUrl" />
+                    </h1>
+
+                </div>
+
+            </div>
+            <div class="col-lg-7 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+
+
+                <div class="col-sm-6">
+                    <div class="form-floating">
+
+                        <span>
+                            رقم المنتج:
+
+                        </span>
+                        <span>  @Model.Id</span>
+
+                    </div>
+                </div>
+                @*@if (!Model.Any())
+                    {
+                        <div class="alert alert-warning" role="alert">
+                            No products found
+                        </div>
+                    }*@
+                <div class="row g-3">
+
+
+                    @*<div class="col-sm-6">
+                        <div class="form-floating">
+
+                            <span>
+                                الموسم
+
+                            </span>
+                            <span>@Model.Product_Seasons.Select(e=>e.Season).FirstOrDefault() </span>
+
+                        </div>
+                    </div>*@
+
+                    @*<div class="col-sm-6">
+                        <div class="form-floating">
+
+                        </div>
+                    </div>*@
+                    @*<div class="col-sm-6">
+                        <div class="form-floating">
+                            <span>السعر</span>
+                            <span> </span>
+                        </div>
+                    </div>*@
+
+                    <div class="col-sm-6">
+                        <div class="form-floating">
+                            <span>المدة الزراعة</span>
+                            <span> @Model.ArgiculturalLandMarks</span>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="form-floating">
+                            <span>الجودة</span>
+                            <span>@Model.ProductQuality</span>
+
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="form-floating">
+                            <span>وحدة التسعير للكيلو</span>
+                            <span>@Model.CostsPerKilo</span>
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+                    <div class="col-sm-6">
+
+                        <div class="form-floating">
+                            @*<h5><a src='@Url.Content("~/uploads/" + @Model.FoodValueChain)' class="btn btn-primary w-100 py-3">سلسه القيمة</h5></a>*@
+                            @*<h5><a href=@Model.FoodValueChain class="btn btn-primary w-100 py-3">سلسه القيمة</h5></a>*@
+                            <h5><a href=@Model.FoodValueChain class="btn btn-primary w-100 py-3">سلسه القيمة</h5></a>
+
+                            <input type="hidden" asp-for="FoodValueChain" />
+                        </div>
+
+                    </div>
+
+                    <div class="col-sm-6">
+                        @*<h5><a src="~/uploads/ @Model.Feasibility" class="btn btn-primary w-100 py-3">دراسة الجدوى</h5></a>*@
+                        <h5><a href=" @Model.Feasibility" class="btn btn-primary w-100 py-3" data-toggle="model" data-target="extamplemodel">دراسة الجدوى</h5></a>
+
+                        <input type="hidden" asp-for="Feasibility" />
+                    </div>
+
+
+
+
+
+                    <div class="col-sm-6">
+                        @*<h5><a src="~/uploads/ @Model.StrategicPlan" class="btn btn-primary w-100 py-3">الخطةالاستراتيجيه</h5></a>*@
+                        <h5><a href=" @Model.StrategicPlan" class="btn btn-primary w-100 py-3">الخطةالاستراتيجيه</h5></a>
+                        <input type="hidden" asp-for="StrategicPlan" />
+                    </div>
+                    <div class="col-sm-6">
+                        <h5><a asp-controller="Investment" asp-action="Prices" class="btn btn-primary w-100 py-3" type="submit">الاسعار</a></h5>
+                    </div>
+                    @*<div class="col-sm-6">
+                            <h5><a src='@Url.Content("~/uploads/" +Model.StrategicPlan)' class="btn btn-primary w-100 py-3">صيغة العقد</h5></a>
+                        </div>*@
+
+                    <form asp-action="AddAddOrEdit" method="post">
+                        <input type="hidden" name="producteId" value="@Model.Id" />
+                        <div class="col-sm-6">
+                            <div class="form-floating">
+                                <label asp-for="Id" class="control-lable">الممولين </label>
+                                <select class="form-select" asp-for="Id" name="InvestorId">
+                                    @foreach (var level in Model.Finances)
+                                    {
+                                        <option value="@level.InvestorId">@level.investor.FullName</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+
+
+                        <div class="col-sm-6">
+                            <div class="form-floating">
+                                <div class="btn-group">
+
+                                    @if (User.Identity.IsAuthenticated)
+                                    {
+                                        <button type="submit" class="btn btn-primary w-100 py-3">
+                                            طلب التعاقد
+                                        </button>
+                                    }
+                                    else
+                                    {
+                                        <button asp-action="_LoginPartial" class="btn btn-primary w-100 py-3">
+                                            طلب التعاقد
+                                        </button>
+
+                                    }
+
+                                </div>
+                            </div>
+                    </form>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+</div><!-- Appointment End -->

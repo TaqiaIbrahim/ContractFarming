@@ -1,0 +1,86 @@
+﻿@model ContractFarming.Models.ContractReview
+
+<div class="container-xxl flex-grow-1 container-p-y">
+
+
+    <div class="row">
+        <div class="col-md-12">
+
+            <div class="card mb-4">
+                <a asp-action="Index">
+                    <h5 class="card-header">اضافة تقييم</h5>
+                </a>
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
+                        aria-label="Close"></button>
+                <!-- Account -->
+
+
+                <div class="card-body">
+                    <form   class="add-new-record " id="valid" onsubmit=" " method="post" role="form"  asp-action="Add">
+                        <div class="row">
+                            <div>
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                <input type="hidden" asp-for="Id" a />
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="Text" class="form-label">اضافة تقييم</label>
+
+                                <textarea asp-for="Text" class="form-control" id="basic-default-bio" name="basic-default-bio" rows="3" required=""></textarea>
+                                <span class="text-danger"></span>
+                                <div class="fv-plugins-message-container invalid-feedback"></div>
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label class="form-label" asp-for="ReciptStatementId">رقم بيان الاستلام</label>
+                                <select asp-for="ReciptStatementId" asp-items="@(new SelectList( ViewBag.reciptStatements,"Id","Id"))"
+                                        id="item-group-a"
+                                        class="select2 form-select form-select-lg"
+                                        data-allow-clear="true">
+
+                                    <!-- asp-for="ContractTittle" -->
+                                    <span asp-validation-for="ReciptStatementId" class="text-danger"></span>
+
+
+                                </select>
+
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="ReviewDate" class="form-label" for="basicFullname">  التاريخ</label>
+                                <input asp-for="ReviewDate" type="date" id="Price" class="form-control dt-full-name" name="Price"
+                                       placeholder="" aria-label="132456" aria-describedby="basicFullname2" />
+
+
+                            </div>
+
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="RatingScore" class="form-label" for="basicFullname"> درجة التقييم</label>
+                                <input asp-for="RatingScore" type="text" id="NameUser" class="form-control dt-full-name" name="NameUser" placeholder="" aria-describedby="basicFullname2" />
+                                <span asp-validation-for="RatingScore" class="text-danger"></span>
+                                <div class="fv-plugins-message-container invalid-feedback"></div>
+                            </div>
+
+
+
+
+                        </div>
+                        <div class="mt-2">
+                            <button asp-controller="ContractReview" asp-action="Add" type="submit" class="btn btn-primary me-2">حفظ </button>
+                            <button asp-action="Index" type="reset" class="btn btn-label-secondary">إلغاء</button>
+                        </div>
+                    </form>
+                </div>
+                <!-- /Account -->
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- / Content -->
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+
+
+

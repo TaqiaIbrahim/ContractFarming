@@ -1,0 +1,156 @@
+﻿
+@model IEnumerable<ContractFarming.Models.InvestmentCard>
+
+@{
+    ViewData["Title"] = "البطائق الإستثمارية";
+}
+
+<!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+        <!-- Users List Table -->
+        <div class="card">
+
+            <div class="row gx-3 gy-2 align-items-center mt-1 mb-4 ms-1 me-1">
+
+               
+
+
+
+                <div class="col-md-12">
+                    <div class="dt-buttons btn-add">
+
+
+                        <div class=" justify-content-end   d-grid gap-2 ">
+                            <a asp-action="AddOrEdit">
+                                <button class="dt-button add-new btn btn-primary mt-3 ml-5">
+                                    <span>
+                                        <i class="bx bx-plus me-0 me-lg-2"></i>
+                                        @*<i class="bx bx-plus me-0 me-lg-2 p-1 ml-5 "></i>*@
+                                        <span class="d-none d-lg-inline-block">  إضافة بطاقة إستثمارية   </span>
+                                    </span>
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+  
+                        <div class="table-responsive text-nowrap">
+
+
+
+                            <table class="table TProject">
+                                <thead>
+                                    <tr>
+                                        <th>الرقم</th>
+                                        <th>الصورة</th>
+                                        <th>عنوان البطاقة الأستثمارية</th>
+                                        <th>تاريخ البدء</th>
+                                        <th>تاريخ الإنتهاء</th>
+
+                                        <th>الملحق</th>
+                                        <th>المنتجين</th>
+                                        @*<th> اسم المنتج</th>*@
+                                        <th>الإجراءات</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="table-border-bottom-0">
+                                    @foreach (var item in Model)
+                                    {
+                                    <tr>
+                                        <td>@item.Id</td>
+                                        <td><img src="~/uploads/@item.ImageUrl" class="rounded-circle" height="40" width="40" asp-append-version="true" /></td>
+
+                                        <td>@item.Title</td>
+                                        <td> @item.StartDate</td>
+                                        <th>@item.ExpirationDate</th>
+                                        <th>@item.Attachment</th>
+                                        
+                                        <td>@Html.DisplayFor(modelItem => item.Producers.FullName)</td>
+                                        @*<td>@item.Producers.FullName</td>*@
+                                        @*<td>@Html.DisplayFor(modelItem=>item.Product.Name)</td>*@
+
+
+
+                                        <th>
+                                            <div class="dropdown">
+                                                <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown"
+                                                        aria-expanded="false">
+                                                    <i class="bx bx-dots-vertical-rounded"></i>
+                                                </button>
+                                                <div class="dropdown-menu">
+
+
+                                                    <a asp-action="AddorEdit" asp-route-id="@item.Id" class="dropdown-item" \">
+                                                        <i class="bx bxs-edit-alt icon-padding edit-color"></i>
+
+                                                        تعديل
+                                                    </a>
+                                                    <a asp-action="Delete" asp-route-id="@item.Id" class="dropdown-item" id="confirm-text">
+                                                        <i class="bx bxs-trash-alt icon-padding delet-color" aria-hidden="true"></i>
+                                                        حذف
+                                                    </a>
+
+                                                    <a asp-action="Details" asp-route-id="@item.Id" class="dropdown-item"><i class="fas fa-eye fa-fw icon-padding "></i> عرض</a>
+
+
+
+
+
+                                                </div>
+                                            </div>
+                                        </th>
+
+                                    </tr>
+
+
+
+                                    }
+
+
+                                </tbody>
+                            </table>
+                       
+
+
+                        </div>
+
+                    
+
+
+
+
+
+                </div>
+
+
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

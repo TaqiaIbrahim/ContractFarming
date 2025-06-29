@@ -1,0 +1,212 @@
+﻿@model IEnumerable<ContractFarming.Models.ContractRequest>
+
+
+@{
+    ViewData["Title"] = "طلبات التعاقد";
+    var index = 1;
+}
+
+<!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+        <!-- Users List Table -->
+        <div class="card">
+
+            <div class="card-datatable ">
+                
+                <div class="table-responsive text-nowrap">
+
+                    <div class="card">
+                        <div class="table-responsive text-nowrap">
+                            <table class="table TProject">
+                                <thead>
+                                    <tr>
+                                        <th>الرقم التسلسلي</th>
+                                        <th>
+                                            المنتج المتقاعد علية
+                                        </th>
+                                        <th>اسم المستثمر</th>
+                                        <th>اسم المنتج</th>
+                                        <th>تأكيدالمستثمر</th>
+
+                                        @*<th>تأكيدالطلب</th>*@
+                                        <th>الاجراءات</th>
+                                        <th>اضافة عقد</th>
+
+
+
+                                    </tr>
+                                </thead>
+
+                                <tbody class="table-border-bottom-0">
+
+
+                                    @foreach (var contractrequest in Model)
+                                    {
+                                         
+                                            @if (contractrequest.InvestmrntCardname == null)
+                                             {
+                                    <tr @contractrequest.Id>
+                                        <td>
+                                      @contractrequest.Id
+                                        </td>
+                                        <td>@contractrequest.product.Name</td>
+                                        <th>@contractrequest.Investor.FullName</th>
+                                        <th>@contractrequest.Producer.FullName</th>
+
+                                        <td>
+
+                                            @if (!contractrequest.ConfirmUser)
+                                            {
+                                                <p class="card">قيد الانتظار</p>}
+                                            else
+                                            {<p> تم قبول الطلب</p>}
+
+                                        </td>
+
+                                        <!--<th>-->
+                                            @*@Html.CheckBox("state",false)*@
+
+
+                                            <!--<input type="checkbox" name="State" value="@contractrequest.StateAdmin" />
+
+                                        </th>-->
+                                        <th>
+                                            <div class="dropdown">
+                                                <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown" aria-expanded="false">
+                                                    <i class="bx bx-dots-vertical-rounded"></i>
+                                                </button>
+                                                <div class="dropdown-menu">
+
+                                                    <a asp-action="Confirm" asp-route-Id="@contractrequest.Id" class="dropdown-item">
+                                                        <i class="bx bxs-edit-alt icon-padding edit-color">
+
+                                                        </i>
+
+                                                        تأكيدالطلب
+                                                    </a>
+                                                    <a asp-action="Index1" class="dropdown-item">
+                                                        <i class="bx bxs-edit-alt icon-padding edit-color"></i>
+
+                                                        العقود
+                                                    </a>
+
+
+
+
+
+
+
+                                                </div>
+                                            </div>
+                                        </th>
+
+
+
+                                        @if (contractrequest.StateAdmin == true && contractrequest.ConfirmUser)
+                                        {
+                                    <th>
+                                        <a asp-action="Add">
+                                            <button class="dt-button add-new btn bg-label-primary btn-add" tabindex="0" aria-controls="DataTables_Table_0" type="button" data-bs-toggle="offcanvas">
+                                                اضافةعقد
+                                                @*<span class="d-none d-lg-inline-block  "> @Html.ActionLink("اضافةعقد", "Add1", "ContractRequestsController", new { id = contractrequest.Id }, null)</span>*@
+                                            </button>
+                                        </a>
+
+
+                                      
+
+                                    </th>
+                                        }
+
+                                        else
+                                        {
+
+                                            <a class="dropdown-item" href="javascript:void(0);" id="confirm-text">
+                                            
+                                            </a>
+                                        }
+
+
+                                    </tr>
+
+
+                                            
+                                        }
+                                    }
+
+                                    @*<tbody class="table-border-bottom-0">
+            @foreach (var item in Model)
+            {
+
+            <tr id="row_@item.Id">
+                <td>
+                    @(index++)
+                </td>
+                <td> @item.product.Name</td>
+                <th>@item.Investor.Name</th>
+                <th>@item.Producer.Name</th>
+                <td>
+                <th>
+                    <input class="form-check-input" type="checkbox" value="" id="defaultCheck3"
+                           checked="">
+                </th>
+
+
+
+
+
+                </td>
+
+                <th> </th>
+
+                <th>
+                    <div class="dropdown">
+                        <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown" aria-expanded="false">
+                        </button>
+                        <div class="dropdown-menu">
+
+                            <a class="dropdown-item" href="javascript:void(0);">
+                                <i class="bx bxs-edit-alt icon-padding edit-color"></i>
+
+                                تأكيد
+                            </a>
+                            <a asp-action="Delete" asp-Route-id="@item.Id" class="dropdown-item" id="confirm-text">
+                                <i class="bx bxs-trash-alt icon-padding delet-color" aria-hidden="true"></i>
+                                حذف
+                            </a>
+
+
+
+
+
+                        </div>
+                    </div>
+                </th>
+
+            </tr>
+
+            }*@
+
+
+
+                                    </tbody>
+                                </table>
+                        </div>
+
+
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+

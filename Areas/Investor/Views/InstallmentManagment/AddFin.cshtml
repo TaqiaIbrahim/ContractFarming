@@ -1,0 +1,88 @@
+﻿@model ContractFarming.Models.Financial_Installment
+
+<!-- Content wrapper -->
+
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+
+        <div class="row">
+            <div class="col-md-12">
+
+                <div class="card mb-4">
+                    <h5 class="card-header">اضافة قسط</h5>
+                    <!-- Account -->
+
+
+                    <div class="card-body">
+                        <form asp-action="AddFin">
+                            <div class="row">
+                                <div class="col-sm-12 fv-plugins-icon-container">
+                                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                    <input type="hidden" asp-for="Id" a />
+
+
+                                    <div class="col-sm-12 fv-plugins-icon-container">
+                                        <label asp-for="ContractId" class="control-lable">   اسم العقد</label>
+                                        <select asp-for="ContractId" class="form-control" type="text" asp-items="@(new SelectList(ViewBag.Contract, "Id", "ContractTitle") )"> </select>
+                                        <span asp-validation-for="ContractId" class="text-danger"></span>
+                                        <div class="fv-plugins-message-container invalid-feedback"></div>
+                                    </div>
+                                </div>
+
+
+
+
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <label asp-for="Discriminator" class="form-label">نوع القسط</label>
+                                        <select asp-for="Discriminator" class="select2 form-select form-select-lg" data-allow-clear="true"
+                                                aria-describedby="basicFullname2">
+
+                                            <option value="Financial_Installment">مالي</option>
+                                           
+
+                                        </select>
+                                    </div>
+
+                                    <div class="col-md-6 mb-3">
+                                        <label asp-for="DeliveryDate"  class="form-label" for="basicFullname">  التاريخ</label>
+                                        <input asp-for="DeliveryDate"  type="date" id="Price" class="form-control dt-full-name" name="Price"
+                                               placeholder="" aria-label="132456" aria-describedby="basicFullname2" />
+
+
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-6 mb-3">
+                                            <label asp-for="Amount"
+                                                   class="form-label" for="basicFullname">  المبلغ</label>
+                                            <input asp-for="Amount"
+                                                   type="text" id="Price" class="form-control dt-full-name" name="Price"
+                                                   placeholder="" aria-label="132456" aria-describedby="basicFullname2" />
+                                        </div>
+
+                                        <div class="col-md-6 mb-3">
+                                            <label asp-for="Currency" class="form-label" for="basicFullname">  العملة</label>
+                                            <input asp-for="Currency"
+                                                   type="text" id="Price" class="form-control dt-full-name" 
+                                                   placeholder="" aria-label="132456" aria-describedby="basicFullname2" />
+                                        </div>
+
+
+
+
+
+
+                                    </div>
+                                    <div class="mt-2">
+                                        <button asp-action="AddFin" type="submit" class="btn btn-primary me-2">حفظ </button>
+                                        <button asp-action="Index" class="btn btn-label-secondary">إلغاء</button>
+                                    </div>
+                                  
+
+
+</form>
+
+

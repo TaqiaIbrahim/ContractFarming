@@ -1,0 +1,99 @@
+   @*<div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="ContractId" class="control-lable"> رقم العقد</label>
+                            <select asp-for="ContractId" class="form-control" type="text" asp-items="@(new SelectList(ViewBag.Contract, "Id", "ContractTitle") )"> </select>
+                            <span asp-validation-for="ContractId" class="text-danger"></span>
+
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+
+                        </div>*@
+
+
+<form asp-action="Create"  enctype="multipart/form-data">
+                                            <div class="mb-3">
+                                                <label asp-for="Text" class="control-lable">نص الإعلان</label>
+                                                <textarea class="form-control"
+                                                          id="basic-default-bio"
+                                                          name="basic-default-bio"
+                                                          rows="3"
+                                                          required></textarea>
+                                                <span asp-validation-for="Text" class="text-danger"></span>
+                                            </div>
+
+                                            <div class="mb-3">
+                                                <div class="col-sm-12 fv-plugins-icon-container">
+                                                    <label asp-for="StartDate" class="form-labelfor=" basicDate">تاريخ البدء </label>
+                                                    <div class="input-group input-group-merge has-validation">
+                                                        <span id="basicDate2" class="input-group-text">
+                                                            <i class="bx bx-calendar"></i>
+                                                        </span>
+                                                        <input asp-for="StartDate" type="text" class="form-control dt-date" id="basicDate" name="basicDate" aria-describedby="basicDate2" placeholder="MM/DD/YYYY" aria-label="MM/DD/YYYY">
+                                                    </div>
+                                                    <span asp-validation-for="StartDate" class="text-danger"></span>
+                                                    <div class="fv-plugins-message-container invalid-feedback"></div>
+                                                </div>
+                                            </div>
+
+                                            <div class="mb-3">
+
+                                                <div class="col-sm-12 fv-plugins-icon-container">
+                                                    <label asp-for="ExpirationDate" class="form-labelfor=" basicDate">تاريخ الانتهاء </label>
+                                                    <div class="input-group input-group-merge has-validation">
+                                                        <span id="basicDate2" class="input-group-text">
+                                                            <i class="bx bx-calendar"></i>
+                                                        </span>
+                                                        <input asp-for="ExpirationDate" type="text" class="form-control dt-date" id="basicDate" name="basicDate" aria-describedby="basicDate2" placeholder="MM/DD/YYYY" aria-label="MM/DD/YYYY">
+                                                    </div>
+                                                    <span asp-validation-for="ExpirationDate" class="text-danger"></span>
+                                                    <div class="fv-plugins-message-container invalid-feedback"></div>
+                                                </div>
+                                            </div>
+
+
+
+
+
+
+
+
+                                            @*<label asp-for="UrlImage" class="form-label" for="basic-default-upload-file">إرفاق صور</label>
+                        <div class="mb-3">
+                            <div class="input-group">
+
+                                <input asp-for="UrlImage" type="file" class="form-control" id="inputGroupFile04" id="File" name="File"
+                                       aria-describedby="inputGroupFileAddon04" aria-label="Upload">
+                                <span asp-validation-for="UrlImage" class="text-danger"></span>
+                            </div>
+                        </div>*@
+                                            @*<div class="mb-3">
+                            <label asp-for="InvestmentCardId" class="form-label" for="basic-default-dob">البطاٌقة الإستثمارية </label>
+                            <span id="basicDate2" class="input-group-text">
+                                <i class="bx bx-calendar"></i>
+                                <select asp-for="InvestmentCardId" class="form-control" asp-items="@(new SelectList(ViewBag.InvestmentCard,"Id","Name"))"></select>
+                                <span asp-validation-for="InvestmentCardId" class="text-danger"></span>
+                        </div>*@
+
+
+
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <button  asp-action="Create"   type="submit" class="btn btn-primary">نشر</button>
+                                                    <button asp-action="Index" class="btn btn-label-primary me-3">
+                                                        <span class="align-middle"> إلغاء</span>
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /Browser Default -->
+
+
+               
+
+
+
+
+
+
+

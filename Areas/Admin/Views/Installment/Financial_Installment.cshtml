@@ -1,0 +1,63 @@
+﻿<!-- Content wrapper -->
+@model IEnumerable<ContractFarming.Models.Financial_Installment>
+@{
+    ViewData["Title"] = "الأقساط";
+}
+<div class="content-wrapper">
+    <!-- Content -->
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <h4 class="breadcrumb-wrapper py-3 mb-4">
+            <span class="text-muted fw-light"><a asp-action="Index">الأقساط </a> /</span> القسط المالي
+        </h4>
+        <div class="row invoice-edit">
+            <!-- Invoice Edit-->
+
+
+            <div class="card invoice-preview-card">
+                <div class="card-body">
+                    <div class="table-responsive text-nowrap">
+
+                        <div class="card">
+                            <div class="table-responsive text-nowrap">
+                                <table class="table TProject">
+                                    <thead>
+                                        <tr>
+                                            <th>  المبلغ  </th>
+                                            <th>العملة  </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="table-border-bottom-0">
+
+                                        @foreach (var item in Model)
+                                        {
+                                            <tr>
+                                                <td>@item.Amount</td>
+                                                <td> @item.Currency</td>
+
+
+                                            </tr>
+                                        }
+
+
+
+
+                                    </tbody>
+                                </table>
+                            </div>
+
+
+
+                        </div>
+                    </div>
+
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

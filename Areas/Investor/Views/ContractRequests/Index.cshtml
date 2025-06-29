@@ -1,0 +1,133 @@
+﻿@model IEnumerable<ContractFarming.Models.ContractRequest>
+
+
+@{
+    ViewData["Title"] = "طلبات التعاقد";
+    var index = 1;
+}
+
+<!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+        <!-- Users List Table -->
+        <div class="card">
+
+            <div class="card-datatable ">
+              
+                <div class="table-responsive text-nowrap">
+
+                    <div class="card">
+                        <div class="table-responsive text-nowrap">
+                            <table class="table TProject">
+                                <thead>
+                                    <tr>
+                                        <th>الرقم التسلسلي</th>
+                                        <th>
+                                            المنتج المتقاعد علية
+                                        </th>
+                                     
+                                        <th>اسم المنتج</th>
+                                        <th>الاجراءات</th>
+
+
+
+
+                                    </tr>
+                                </thead>
+                                <tbody class="table-border-bottom-0">
+
+
+
+                                    @foreach (var contractrequest in Model)
+                                    {
+                                        @if (contractrequest.InvestmrntCardname == null)
+                                        {
+                                    <tr id="row_@contractrequest.Id">
+                                        <td>
+                                            @(index++)
+                                        </td>
+                                        <td>@contractrequest.product.Name</td>
+
+                                        <th>@contractrequest.Producer.FullName</th>
+                                    
+
+                                        <th>
+                                            <div class="dropdown">
+                                                <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown" aria-expanded="false">
+                                                    <i class="bx bx-dots-vertical-rounded"></i>
+                                                </button>
+                                                <div class="dropdown-menu">
+
+                                                    <a asp-action="Confirm" asp-route-Id="@contractrequest.Id" class="dropdown-item">
+                                                        <i class="bx bxs-edit-alt icon-padding edit-color">
+
+                                                        </i>
+
+                                                        تأكيدالطلب
+                                                    </a>
+
+                                                   
+                                                    @{ @if (contractrequest.StateAdmin == true && contractrequest.ConfirmUser == true)
+                                                    {
+                                                            <a asp-action="Details" asp-route-Id="@contractrequest.Id" class="dropdown-item">
+                                                                <i class="bx bxs-edit-alt icon-padding edit-color">
+
+                                                                </i>
+
+                                                                العقد
+                                                            </a>
+                                                    }
+
+                                                    else
+                                                    {
+                                                            <a asp-action="Index" asp-route-Id="@contractrequest.Id" class="dropdown-item">
+                                                                <i class="bx bxs-edit-alt icon-padding edit-color">
+
+                                                                </i>
+
+                                                                لايتوفر عقد
+                                                            </a>
+                                                    }
+
+
+                                                    }
+
+                                                    
+                                                    }
+
+                                                </div>
+                                            </div>
+                                        </th>
+
+
+
+
+
+                                    </tr>
+
+
+                                                            }
+                                                        }
+
+
+
+                                </tbody>
+                            </table>
+                        </div>
+
+
+                    
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+

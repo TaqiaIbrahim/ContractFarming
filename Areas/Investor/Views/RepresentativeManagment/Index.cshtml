@@ -1,0 +1,119 @@
+﻿@model IEnumerable<UserViewModel>
+    <!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+
+        <!-- Users List Table -->
+        <div class="card">
+
+            <div class="row gx-3 gy-2 align-items-center mt-1 mb-4 ms-1 me-1">
+
+                <div class="col-md-12">
+                    <div class="col-md-2">
+                        <div class="dt-buttons btn-add">
+                            <a asp-action="Add" asp-controller="RepresentativeManagment">
+                                <button class="dt-button add-new btn btn-primary btn-add" tabindex="0"
+                                        aria-controls="DataTables_Table_0" type="button" data-bs-toggle="offcanvas"
+                                        data-bs-target="#offcanvasAddUser">
+                                    <span>
+                                        <i class="bx bx-plus me-0 me-lg-2"></i><span class="d-none d-lg-inline-block  ">اضافة مندوب</span>
+                                    </span>
+                                </button>
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="table-responsive text-nowrap">
+
+                    <div class="card">
+                        <div class="table-responsive text-nowrap">
+                            <table class="table TProject">
+
+                                <thead>
+                                    <tr>
+                                        <th>اسم المندوب</th>
+                                        <th>
+                                            رقم الهاتف
+                                        </th>
+                                        <th>العقد المتابع</th>
+
+                                        <th>الإجراءات</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="table-border-bottom-0">
+
+
+                                    @foreach (var item in Model)
+                                    {
+                                        if (item.Discriminator == "Representative")
+                                        {
+
+                                            <tr>
+
+                                                <td>@item.Name</td>
+                                                <td>@item.PhoneNumber</td>
+
+
+
+
+                                                <th>@Html.DisplayFor(modelItem => item.Contracts.ContractTitle)</th>
+
+
+
+
+                                                <td>
+                                                    <div class="dropdown">
+                                                        <button type="button" class="btn dropdown-toggle hide-arrow p-0"
+                                                                data-bs-toggle="dropdown" aria-expanded="false">
+                                                            <i class="bx bx-dots-vertical-rounded"></i>
+                                                        </button>
+                                                        <div class="dropdown-menu">
+
+
+                                                            <a asp-action="Delete" asp-route-UserId="@item.Id" class="dropdown-item" onclick="return confirm('هل تريد حذف هذا الحقل بالفعل؟')">
+                                                                <i class="bx bxs-trash-alt icon-padding delet-color" aria-hidden="true"></i>
+                                                                حذف
+                                                            </a>
+
+
+
+
+
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+
+                                        }
+
+                                    }
+                                </tbody>
+                            </table>
+
+                        </div>
+
+
+</div>
+                    </div>
+            </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+
+
+            @section Scripts {
+                @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+            }
+
+
+
+

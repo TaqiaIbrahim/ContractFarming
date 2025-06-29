@@ -1,0 +1,145 @@
+﻿@model IEnumerable<ContractFarming.Models.SeedInstructions>
+
+
+@{
+    ViewData["Title"] = "إرشادات البذور";
+}
+
+<!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+
+        <!-- Users List Table -->
+        <div class="card">
+
+            <div class="row gx-3 gy-2 align-items-center mt-1 mb-4 ms-1 me-1">
+
+
+                <div class="col-md-12">
+            <div class="dt-buttons btn-add">
+
+
+                    <div class=" justify-content-end   d-grid gap-2 ">
+                        <a asp-action="AddOrEdit">
+                            <button class="dt-button add-new btn btn-primary mt-3 ml-5">
+                                <span>
+                                    <i class="bx bx-plus me-0 me-lg-2 p-2 "></i>
+                                    <span class="d-none d-lg-inline-block">  إضافة إرشادات البذور  </span>
+                                </span>
+                            </button>
+                        </a>
+                    </div>
+                </div>
+
+
+            </div>
+
+
+                <div class="table-responsive text-nowrap">
+                    @if (!Model.Any())
+                    {
+                        <div class="alert alert-warning" role="alert">
+                            لا توجد اي ارشادات بعد
+                        </div>
+                    }
+                    else
+                    {
+                        <table class="table  TProject">
+
+                            <thead>
+                                <tr>
+                                    <th>الرقم </th>
+                                    <th>اسم البذرة</th>
+                                    <th>
+                                        نوع البذرة
+                                    </th>
+                                    <th> التصنيف</th>
+
+                                    <th>مدى نقاوتها</th>
+                                    <th> اماكن توافرها</th>
+
+
+                                    <th>الإجراءات</th>
+
+                                </tr>
+                            </thead>
+                            <tbody class="table-border-bottom-0">
+
+
+
+
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <th>@item.Id</th>
+                                        <th>@item.SeedName</th>
+                                        <th> @item.Type</th>
+                                        <th>@item.Classification</th>
+                                        <th>@item.RangeOfPurity</th>
+                                        <th>@item.AvailablePlace</th>
+                                    
+
+                                        <th>
+                                            <div class="dropdown">
+                                                <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown"
+                                                        aria-expanded="false">
+                                                    <i class="bx bx-dots-vertical-rounded"></i>
+                                                </button>
+                                                <div class="dropdown-menu">
+
+                                                    <a asp-action="AddOrEdit" asp-route-id="@item.Id" class="dropdown-item">
+                                                        <i class="bx bxs-edit-alt icon-padding edit-color"></i>
+
+                                                        تعديل
+                                                    </a>
+
+                                                    <a asp-action="Delete" asp-route-id="@item.Id" class="dropdown-item" onclick="return confirm('هل تريد حذف هذا الحقل؟')">
+                                                        <i class="bx bxs-edit-alt icon-padding edit-color"></i>
+
+                                                        حذف
+                                                    </a>
+
+
+
+
+                                                </div>
+                                            </div>
+                                        </th>
+
+
+                                    </tr>
+                                }
+
+
+                            </tbody>
+
+
+                        </table>
+                    }
+
+
+                </div>
+
+
+
+        </div>
+
+
+            </div>
+                    </div>
+
+
+
+
+
+                    <!-- / Layout wrapper -->
+                </div>
+
+@section Scripts{ 
+    <script src="/Dashboard/ASSETS/JS/SeedInstruction.js"></script>
+}
+

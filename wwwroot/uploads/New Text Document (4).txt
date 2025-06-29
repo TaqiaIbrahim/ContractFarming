@@ -1,0 +1,166 @@
+@model IEnumerable<ContractFarming.Models.Contract>
+
+
+@{
+    ViewData["Title"] = "طلبات التعاقد";
+    var index = 1;
+}
+
+<!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+        <!-- Users List Table -->
+        <div class="card">
+
+            <div class="card-datatable ">
+                <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper dt-bootstrap5 no-footer">
+                    <div class="row mx-2 border-bottom ">
+                        <div class="col-md-2">
+                            <div class="me-3 table-type">
+                                <span class="table-span"> عرض </span>
+                                <div class="dataTables_length" id="DataTables_Table_0_length">
+                                    <label>
+                                        <select name="DataTables_Table_0_length" aria-controls="DataTables_Table_0" class="form-select">
+                                            <option value="10">10</option>
+                                            <option value="25">25</option>
+                                            <option value="50">50</option>
+                                            <option value="100">100</option>
+                                        </select>
+                                    </label>
+
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+
+                        <div class="col-md-8">
+                            <div class="me-3 table-type search-paddind">
+                                <span class="table-span">بحث</span>
+                                <div id="DataTables_Table_0_filter" class="dataTables_filter">
+                                    <label class="lable-search">
+                                        <input type="search" class="form-control table-s" placeholder="Search.."
+                                               aria-controls="DataTables_Table_0" style="     width: 353px;">
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+                <div class="table-responsive text-nowrap">
+
+                    <div class="card">
+                        <div class="table-responsive text-nowrap">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>الرقم التسلسلي</th>
+                                        <th>
+                                            المنتج المتقاعد علية
+                                        </th>
+                                        <th>اسم المستثمر</th>
+                                        <th>حالة الطلب</th>
+
+
+
+
+                                    </tr>
+                                </thead>
+                                <tbody class="table-border-bottom-0">
+                                    @foreach (var item in Model)
+                                    {
+                                        
+                                        <tr id="row_@item.Id">
+                                            <td>
+                                                @(index++)
+                                            </td>
+                                            <td> @item.Product.Name</td>
+                                            <th>@item.Investor.Name</th>
+                                            <td>@item.RequestStatus</td>
+
+                                            <th> </th>
+
+                                            <th>
+                                                <div class="dropdown">
+                                                    <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown" aria-expanded="false">
+                                                    </button>
+                                                    <div class="dropdown-menu">
+
+                                                        <a class="dropdown-item" href="javascript:void(0);">
+                                                            <i class="bx bxs-edit-alt icon-padding edit-color"></i>
+
+                                                            تأكيد
+                                                        </a>
+                                                        <a asp-action="Delete" asp-Route-id="@item.Id" class="dropdown-item" id="confirm-text">
+                                                            <i class="bx bxs-trash-alt icon-padding delet-color" aria-hidden="true"></i>
+                                                            حذف
+                                                        </a>
+
+
+
+
+
+                                                    </div>
+                                                </div>
+                                            </th>
+
+                                        </tr>
+
+                                        }
+
+
+
+                                    </tbody>
+                            </table>
+                        </div>
+
+
+                        <nav aria-label="Page navigation" class="mb-4-4">
+                            <ul class="pagination pagination-sm justify-content-end ">
+                                <li class="page-item prev mr">
+                                    <a class="page-link" href="javascript:void(0);">
+                                        <i class="tf-icon bx bx-chevrons-left"></i>
+                                    </a>
+                                </li>
+                                <li class="page-item active">
+                                    <a class="page-link" href="javascript:void(0);">1</a>
+                                </li>
+                                <li class="page-item">
+                                    <a class="page-link" href="javascript:void(0);">2</a>
+                                </li>
+                                <li class="page-item ">
+                                    <a class="page-link" href="javascript:void(0);">3</a>
+                                </li>
+                                <li class="page-item">
+                                    <a class="page-link" href="javascript:void(0);">4</a>
+                                </li>
+                                <li class="page-item">
+                                    <a class="page-link" href="javascript:void(0);">5</a>
+                                </li>
+                                <li class="page-item next">
+                                    <a class="page-link" href="javascript:void(0);">
+                                        <i class="tf-icon bx bx-chevrons-right"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+

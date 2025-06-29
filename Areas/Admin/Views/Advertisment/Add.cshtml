@@ -1,0 +1,92 @@
+﻿@model ContractFarming.Models.Advertisment
+@*@{
+    ViewData["Title"] = "الإعلانات";
+}*@
+
+
+
+<!-- Content wrapper -->
+    <div class="content-wrapper">
+        <!-- Content -->
+
+
+
+
+
+        <div class="container-xxl flex-grow-1 container-p-y">
+
+            <div class="row mb-4">
+                <h4 class="breadcrumb-wrapper py-3 mb-4">
+                    <span class="text-muted fw-light"> <a asp-action="Index"> الإعلانات</a> /</span> إضافة إعلان
+                </h4>
+                <!-- Browser Default -->
+                <div class="col-md mb-4 mb-md-0">
+                    <div class="card">
+                        <h5 class="card-header"> الإعلانات</h5>
+                        <div class="card-body">
+                            <form asp-action="Add" method="post" class="add-new-record " id="valid" onsubmit=" " enctype="multipart/form-data">
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                <input type="hidden" asp-for="Id" a />
+                                <div class="col-sm-12">
+                                    <label asp-for="Text" class="control-lable"> نص الإعلان</label>
+                                    <textarea asp-for="Text" class="form-control dt-full-name" rows="4"></textarea>
+                                    <span asp-validation-for="Text" class="text-danger"></span>
+                                    <div class="fv-plugins-message-container invalid-feedback"></div>
+                                </div>
+                                <div class="col-sm-12 fv-plugins-icon-container">
+                                    <label asp-for="StartDate" class="control-lable"> تاريخ البدء</label>
+                                    <input asp-for="StartDate" class="form-control" type="text" aria-label="132456" aria-describedby="basicFullname2">
+                                    <span asp-validation-for="StartDate" class="text-danger"></span>
+
+                                    <div class="fv-plugins-message-container invalid-feedback"></div>
+                                </div>
+                                <div class="col-sm-12 fv-plugins-icon-container">
+                                    <label asp-for="ExpirationDate" class="control-lable">  تاريخ الانتهاء</label>
+                                    <input asp-for="ExpirationDate" class="form-control" type="text" aria-label="132456" aria-describedby="basicFullname2">
+                                    <span asp-validation-for="ExpirationDate" class="text-danger"></span>
+                                    <div class="fv-plugins-message-container invalid-feedback"></div>
+                                </div>
+                                <div class="col-sm-12 fv-plugins-icon-container">
+                                    <label asp-for="UrlImage" class="control-lable">  صورة الإعلان</label>
+                                    <input asp-for="UrlImage" accept="image/*" class="form-control " type="file" id="File" name="File"
+                                           aria-describedby="inputGroupFileAddon04" aria-label="Upload">
+                                    <span asp-validation-for="UrlImage" class="text-danger"></span>
+                                    <div class="col-sm-12 fv-plugins-icon-container">
+                                        <label asp-for="InvestmentCardId" class="control-lable">  البطاقة الإستثمارية</label>
+                                        <select asp-for="InvestmentCardId" class="form-control" asp-items='@(new SelectList(ViewBag.InvestmentCard,"Id","Title"))'></select>
+                                        <span asp-validation-for="InvestmentCardId" class="text-danger"></span>
+                                        <div class="fv-plugins-message-container invalid-feedback"></div>
+                                    </div>
+                                </div>
+
+
+
+
+
+
+                                <div class="col-sm-12 mt-5">
+                                    <button asp-action="Add" type="submit" class="btn btn-primary data-submit me-1 me-sm-3 w-100 ">حفظ</button>
+                                </div>
+                                <div class="col-sm-12">
+                                    <button asp-action="Index" class="btn btn-outline-secondary w-100 mt-1">
+                                        إلغاء
+                                    </button>
+                                </div>
+
+
+
+                            </form>
+                        </div>
+                    </div>
+
+
+
+
+                    <!-- / Layout wrapper -->
+                </div>
+            </div>
+        </div>
+        @section Scripts {
+            @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+            <script src="/Dashboard/assets/vendor/libs/jquery/jquery.js"></script>
+        }

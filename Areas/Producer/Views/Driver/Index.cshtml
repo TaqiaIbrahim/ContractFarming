@@ -1,0 +1,133 @@
+﻿@model IEnumerable<ContractFarming.Models.Driver>
+@inject IAuthorizationService AuthorizationService
+@using ContractFarming.Constants
+
+
+@{
+    ViewData["Title"] = "السائقين";
+    var index = 1;
+}
+
+    <!-- Content wrapper -->
+    <!-- Custom style1 Breadcrumb -->
+    <div class="content-wrapper">
+        <!-- Content -->
+
+        <div class="container-xxl flex-grow-1 container-p-y">
+
+            <!-- Users List Table -->
+            <div class="card">
+
+                <div class="card-datatable ">
+                    <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper dt-bootstrap5 no-footer">
+                        
+
+                        <div class="col-md-12">
+
+                            <div class=" justify-content-end   d-grid gap-2 ">
+                                <a asp-action="AddOrEdit">
+                                    <button class="dt-button add-new btn btn-primary mt-3 ml-5">
+                                        <span>
+                                            <i class="bx bx-plus me-0 me-lg-2"></i>
+                                            @*@if (AuthorizationService.AuthorizeAsync(User, Premissions.Driver.Add, Premissions.Driver.Edit).Result.Succeeded)
+                                            {*@
+                                                <span class="d-none d-lg-inline-block"> إضافة سائق </span>
+                                                
+                                            </span>
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="table-responsive text-nowrap">
+
+                        <div class="card">
+                            <div class="table-responsive text-nowrap">
+                                @if (!Model.Any())
+                                {
+                                    <div class="alert alert-warning" role="alert">
+                                        لا يوجد اي سأئق بعد
+                                    </div>
+                                }
+                                else
+                                {
+                                    <table class="table TProject">
+                                        <thead>
+                                            <tr>
+                                                <th>رقم السائق</th>
+                                                <th>الاسم الكامل</th>
+                                                <th>
+                                                    رقم الهاتف
+                                                </th>
+                                                <th>رقم البطاقة</th>
+                                                <th>العنوان</th>
+                                                <th>اسم المالك</th>
+                                                <th>رقم السيارة</th>
+                                                <th>الإجراءات</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody class="table-border-bottom-0">
+                                           
+                                                @foreach (var item in Model)
+                                                {
+                                                    <tr>
+                                                        <th>@(index++)</th>
+                                                        <td>@item.Name</td>
+                                                        <td> @item.Phone</td>
+                                                        <th>@item.CarNo</th>
+                                                        <th>@item.Address</th>
+                                                        <th>@item.CarOwnerName </th>
+                                                        <th> @item.CarNo</th>
+
+
+                                                        <th>
+                                                            <div class="dropdown">
+                                                                <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown" aria-expanded="false">
+                                                                    <i class="bx bx-dots-vertical-rounded"></i>
+                                                                </button>
+                                                                <div class="dropdown-menu">
+
+                                                                    <a asp-action="AddOrEdit" asp-route-id="@item.Id" class="dropdown-item">
+                                                                        <i class="bx bxs-edit-alt icon-padding edit-color"></i>
+
+                                                                        تعديل
+                                                                    </a>
+                                                                    @*@if (AuthorizationService.AuthorizeAsync(User, Premissions.Driver.Delete).Result.Succeeded)
+                                                                    {*@
+                                                                        <a asp-action="Delete" asp-route-id="@item.Id" class="dropdown-item" onclick="return confirm('هل تريد حذف هذا الحقل؟')">
+                                                                            <i class="bx bxs-edit-alt icon-padding edit-color"></i>
+
+                                                                            حذف
+                                                                        </a>
+                                                                    
+
+
+                                                                </div>
+                                                                </div>
+                                                            </th>
+
+                                                        </tr>
+
+                                                    }
+                                        </tbody>
+                                    </table>
+                                }
+                            </div>
+                          
+
+
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- / Layout wrapper -->
+        </div>
+    </div>
+
+
+
+
+

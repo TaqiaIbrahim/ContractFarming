@@ -1,0 +1,131 @@
+﻿@model List<ContractFarming.Models.Installment>
+
+@{
+    ViewData["Title"] = "الأقساط";
+    var Index = 1;
+}
+<!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+        <!-- Users List Table -->
+        <div class="card">
+
+            <div class="card-datatable ">
+                
+                <div class="table-responsive text-nowrap">
+                  
+                        <div class="card">
+                            <div class="table-responsive text-nowrap">
+                                
+                                    <table class="table TProject">
+                                        <thead>
+                                            <tr>
+                                                <th>رقم التسلسلي</th>
+                                                <th>العقد</th>
+                                                <th>رقم القسط</th>
+                                                <th>نوعه</th>
+                                                <th>حالة القسط</th>
+                                                <th>
+                                                    التفاصيل
+                                                </th>
+                                                @*<th>الإجراءات</th>*@
+                                            </tr>
+                                        </thead>
+                                        <tbody class="table-border-bottom-0">
+                                            @foreach (var item in Model)
+                                            {
+                                            <tr>
+                                                <th>@(Index++)</th>
+                                                <td>@item.Contract.ContractTitle</td>
+                                                <td>@item.Id</td>
+                                                <td>
+                                                    @if (item.Discriminator == "Financial_Installment")
+                                                    {<p>مالي</p> }
+
+                                                    else
+                                                    { <p>عيني</p>}
+                                                </td>
+                                                <td>
+                                                    @if (item.ProducerConfirm == 1)
+                                                    {
+                                                        <p>تم الموافقة </p>
+                                                    }
+                                                    @if (item.ProducerConfirm == 0)
+                                                    {
+                                                        <p><p>قيد الانتظار</p></p>
+                                                    }
+                                                    @if (item.ProducerConfirm == 2)
+                                                    {
+                                                        <p>تم الرفض</p>
+                                                    }
+                                                </td>
+                                                <th>
+                                                    <div class="dropdown">
+                                                        <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown" aria-expanded="false">
+                                                            <i class="bx bx-dots-vertical-rounded"></i>
+                                                        </button>
+                                                        <div class="dropdown-menu">
+                                                            @if (item.Discriminator == "Financial_Installment")
+                                                            {
+                                                                <a asp-action="Financial_Installment" class="dropdown-item">
+                                                                    <i class=" fa fa-eye icon-padding"></i>
+
+                                                                    عرض
+                                                                </a>
+                                                            }
+                                                            else
+                                                            {
+                                                                <a asp-action="InkindInstallment" class="dropdown-item">
+                                                                    <i class=" fa fa-eye icon-padding"></i>
+
+                                                                    عرض
+                                                                </a>
+                                                            }
+
+                                                         </div>
+                                                        </div>
+                                                    </th>
+                                            </tr>
+
+
+                                               
+                                                    
+                   
+
+                        }
+                                        </tbody>
+                                        </table>
+                                    </div>
+
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- / Layout wrapper -->
+                </div>
+                </div>
+
+
+                @*@section Scripts {
+                    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+                }*@
+
+
+
+
+
+
+
+
+
+
+
+

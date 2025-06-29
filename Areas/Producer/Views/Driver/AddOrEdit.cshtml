@@ -1,0 +1,99 @@
+﻿
+
+@model ContractFarming.Models.Driver
+@inject IAuthorizationService AuthorizationService
+@using ContractFarming.Constants
+
+@{
+    ViewData["Title"] = "السائقين";
+}
+@*@if (AuthorizationService.AuthorizeAsync(User, Premissions.Driver.Add, Premissions.Driver.Edit).Result.Succeeded)
+{*@
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <!-- Content -->
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <h4 class="breadcrumb-wrapper py-3 mb-4">
+            <span class="text-muted fw-light"> <a asp-action="Index">السائقين </a> /</span> إضافة سائق
+        </h4>
+        <div class="col-12 col-md-8 col-xl-7 mb-4 mb-md-0">
+            <div class="card ">
+
+
+                <div class="offcanvas-body flex-grow-0 mx-0">
+                    <form asp-action="AddOrEdit" class="add-new-record " id="valid" onsubmit=" ">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" a />
+                        <div class="col-sm-12">
+                            <label asp-for="Name" class="control-lable"> الاسم</label>
+                            <input asp-for="Name" class="form-control dt-full-name" type="text" aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+                        <div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="Phone" class="control-lable"> رقم الهاتف</label>
+                            <input asp-for="Phone" class="form-control" type="text" aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+                        <div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="IDCard" class="control-lable">  رقم البطاقة الشخصية</label>
+                            <input asp-for="IDCard" class="form-control" type="text" aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="IDCard" class="text-danger"></span>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+                        <div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="Address" class="control-lable">  العنوان</label>
+                            <input asp-for="Address" class="form-control " type="text" aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="Address" class="text-danger"></span>
+
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+                        <div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="CarOwnerName" class="control-lable">  اسم المالك</label>
+                            <input asp-for="CarOwnerName" class="form-control" type="text" aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="CarOwnerName" class="text-danger"></span>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+
+
+                        <div class="fv-plugins-message-container invalid-feedback"></div>
+                        <label asp-for="CarNo" class="control-lable">  رقم السيارة</label>
+                        <input asp-for="CarNo" class="form-control" type="text" aria-label="132456" aria-describedby="basicFullname2">
+                        <span asp-validation-for="CarNo" class="text-danger"></span>
+
+                        <div class="fv-plugins-message-container invalid-feedback"></div>
+
+
+
+                        <div class="col-sm-12 mt-5">
+                            <button asp-action="AddOrEdit" type="submit" class="btn btn-primary data-submit me-1 me-sm-3 w-100 ">حفظ</button>
+                        </div>
+                        <div class="col-sm-12">
+                            <button asp-action="Index" class="btn btn-outline-secondary w-100 mt-1">
+                                إلغاء
+                            </button>
+                        </div>
+
+
+
+                    </form>
+                </div>
+            </div>
+
+
+
+
+            <!-- / Layout wrapper -->
+        </div>
+    </div>
+</div>
+
+</div>
+        </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+        

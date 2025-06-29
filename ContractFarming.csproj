@@ -1,0 +1,193 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-ContractFarming-1C0E19EA-7C55-44D7-85E6-30F195C96095</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20220925142352_addinherit.cs" />
+    <Compile Remove="Migrations\20220925142352_addinherit.Designer.cs" />
+    <Compile Remove="Migrations\20220925142832_addinherit2.cs" />
+    <Compile Remove="Migrations\20220925142832_addinherit2.Designer.cs" />
+    <Compile Remove="Migrations\20220925143638_addinher.cs" />
+    <Compile Remove="Migrations\20220925143638_addinher.Designer.cs" />
+    <Compile Remove="Migrations\20220925144728_addinhertReper2.cs" />
+    <Compile Remove="Migrations\20220925144728_addinhertReper2.Designer.cs" />
+    <Compile Remove="Migrations\20231030202212_seedUsers.cs" />
+    <Compile Remove="Migrations\20231030202212_seedUsers.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Areas\Admin\Views\ContractRequests\Add.cshtml" />
+    <None Include="Areas\Admin\Views\ContractRequests\Details.cshtml" />
+    <None Include="Areas\Admin\Views\ContractRequests\Index.cshtml" />
+    <None Include="Areas\Admin\Views\ContractRequests\Index1.cshtml" />
+    <None Include="Areas\Admin\Views\InvestorRequest\Add.cshtml" />
+    <None Include="Areas\Admin\Views\InvestorRequest\Details.cshtml" />
+    <None Include="Areas\Admin\Views\InvestorRequest\Index.cshtml" />
+    <None Include="Areas\Admin\Views\InvestorRequest\Index1.cshtml" />
+    <None Include="Areas\Investor\Views\AddFinance\Add.cshtml" />
+    <None Include="Areas\Investor\Views\AddFinance\Index.cshtml" />
+    <None Include="Areas\Investor\Views\ContractRequests\Details.cshtml" />
+    <None Include="Areas\Investor\Views\ContractRequests\Index.cshtml" />
+    <None Include="Areas\Investor\Views\Home\Index.cshtml" />
+    <None Include="Areas\Investor\Views\InstallmentManagment\Index.cshtml" />
+    <None Include="Areas\Investor\Views\InvestorRequest\Details.cshtml" />
+    <None Include="Areas\Investor\Views\InvestorRequest\Index.cshtml" />
+    <None Include="Areas\Investor\Views\Report\Index.cshtml" />
+    <None Include="Areas\Investor\Views\RepresentativeManagment\Add.cshtml" />
+    <None Include="Areas\Investor\Views\RepresentativeManagment\Index.cshtml" />
+    <None Include="Areas\Investor\Views\Shared\_Layout.cshtml" />
+    <None Include="Areas\Investor\Views\_ViewImports.cshtml" />
+    <None Include="Areas\Investor\Views\_ViewStart.cshtml" />
+    <None Include="Areas\Producer\Views\ContractRequests\Details.cshtml" />
+    <None Include="Areas\Producer\Views\ContractRequests\Index.cshtml" />
+    <None Include="Areas\Producer\Views\InvestmentRequests\Details.cshtml" />
+    <None Include="Areas\Producer\Views\InvestmentRequests\Index.cshtml" />
+    <None Include="Areas\Representative\Views\ContractReview\Add.cshtml" />
+    <None Include="Areas\Representative\Views\ContractReview\Index.cshtml" />
+    <None Include="Areas\Representative\Views\Home\Index.cshtml" />
+    <None Include="Areas\Representative\Views\ProducerReview\Add.cshtml" />
+    <None Include="Areas\Representative\Views\ProducerReview\Index.cshtml" />
+    <None Include="Areas\Representative\Views\ReciptStatement\Index.cshtml" />
+    <None Include="Areas\Representative\Views\Shared\_Layout.cshtml" />
+    <None Include="Areas\Representative\Views\_ViewImports.cshtml" />
+    <None Include="Areas\Representative\Views\_ViewStart.cshtml" />
+    <None Include="Views\ContractualProceduresManual\Index.cshtml" />
+    <None Include="Views\InvestmentInvestor\InvestmentCard.cshtml" />
+    <None Include="Views\InvestmentInvestor\InvestmentCardName.cshtml" />
+    <None Include="Views\Investment\Index.cshtml" />
+    <None Include="Views\Investment\Prices.cshtml" />
+    <None Include="Views\Investment\ProductDetails.cshtml" />
+    <None Include="Views\Investment\ProductName.cshtml" />
+    <None Include="Views\Investment\Products.cshtml" />
+    <None Include="wwwroot\Home\ASSETS\js\main.js" />
+    <None Include="wwwroot\Home\ASSETS\lib\counterup\counterup.min.js" />
+    <None Include="wwwroot\Home\ASSETS\lib\easing\easing.js" />
+    <None Include="wwwroot\Home\ASSETS\lib\easing\easing.min.js" />
+    <None Include="wwwroot\Home\ASSETS\lib\lightbox\js\lightbox.js" />
+    <None Include="wwwroot\Home\ASSETS\lib\lightbox\js\lightbox.min.js" />
+    <None Include="wwwroot\Home\ASSETS\lib\lightbox\links.php" />
+    <None Include="wwwroot\Home\ASSETS\lib\owlcarousel\LICENSE" />
+    <None Include="wwwroot\Home\ASSETS\lib\owlcarousel\owl.carousel.js" />
+    <None Include="wwwroot\Home\ASSETS\lib\owlcarousel\owl.carousel.min.js" />
+    <None Include="wwwroot\Home\ASSETS\lib\waypoints\links.php" />
+    <None Include="wwwroot\Home\ASSETS\lib\waypoints\waypoints.min.js" />
+    <None Include="wwwroot\Home\ASSETS\lib\wow\wow.js" />
+    <None Include="wwwroot\Home\ASSETS\lib\wow\wow.min.js" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\bootstrap-grid.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\bootstrap-reboot.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\bootstrap-utilities.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\bootstrap.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\forms\_floating-labels.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\forms\_form-check.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\forms\_form-control.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\forms\_form-range.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\forms\_form-select.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\forms\_form-text.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\forms\_input-group.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\forms\_labels.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\forms\_validation.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\helpers\_clearfix.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\helpers\_colored-links.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\helpers\_position.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\helpers\_ratio.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\helpers\_stretched-link.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\helpers\_text-truncation.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\helpers\_visually-hidden.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_alert.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_border-radius.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_box-shadow.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_breakpoints.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_buttons.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_caret.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_clearfix.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_color-scheme.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_container.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_deprecate.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_forms.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_gradients.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_grid.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_image.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_list-group.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_lists.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_pagination.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_reset-text.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_resize.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_table-variants.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_text-truncate.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_transition.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_utilities.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\mixins\_visually-hidden.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\utilities\_api.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\vendor\_rfs.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_accordion.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_alert.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_badge.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_breadcrumb.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_button-group.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_buttons.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_card.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_carousel.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_close.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_containers.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_dropdown.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_forms.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_functions.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_grid.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_helpers.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_images.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_list-group.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_mixins.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_modal.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_nav.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_navbar.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_offcanvas.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_pagination.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_popover.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_progress.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_reboot.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_root.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_spinners.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_tables.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_toasts.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_tooltip.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_transitions.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_type.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_utilities.scss" />
+    <None Include="wwwroot\Home\ASSETS\scss\bootstrap\scss\_variables.scss" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.20" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.20" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.20" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="NToastNotify" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Areas\Admin\Views\Installment\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\Investor\Views\InstallmentManagment\AddFin.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\Investor\Views\InstallmentManagment\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\uploads\" />
+  </ItemGroup>
+
+</Project>

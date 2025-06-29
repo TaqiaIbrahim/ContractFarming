@@ -1,0 +1,74 @@
+﻿@model ContractFarming.Models.Categories
+
+@{
+    ViewData["Title"] = "التصنيف";
+}
+
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+
+
+
+
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <h4 class="breadcrumb-wrapper py-3 mb-4">
+            <span class="text-muted fw-light"> <a asp-action="Index">اضافة تصنيف </a> /</span> اضافة تصنيف
+        </h4>
+        <div class="col-12 col-md-8 col-xl-7 mb-4 mb-md-0">
+            <div class="card ">
+
+
+                <div class="offcanvas-body flex-grow-0 mx-0">
+                    <form asp-action="AddOrEdit" class="add-new-record " id="valid" onsubmit=" ">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" a />
+                        @*<div class="col-sm-12">
+                            <label asp-for="Classification" class="control-lable"> التصنيف</label>
+                            <input asp-for="Classification" class="form-control dt-full-name" type="text" placeholder="" aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="Classification" class="text-danger"></span>
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>*@
+                        <div class="col-sm-12 fv-plugins-icon-container">
+                            <label asp-for="ProductType" class="control-lable"> نوع المنتج</label>
+                            <input asp-for="ProductType" class="form-control" type="text" placeholder="" aria-label="132456" aria-describedby="basicFullname2">
+                            <span asp-validation-for="ProductType" class="text-danger"></span>
+
+                            <div class="fv-plugins-message-container invalid-feedback"></div>
+                        </div>
+                       
+
+
+
+
+                        <div class="col-sm-12 mt-5">
+                            <button  type="submit" class="btn btn-primary data-submit me-1 me-sm-3 w-100 ">حفظ</button>
+                        </div>
+                        <div class="col-sm-12">
+                            <button asp-action="Delete" class="btn btn-outline-secondary w-100 mt-1">
+                                إلغاء
+                            </button>
+                        </div>
+
+
+
+                    </form>
+                </div>
+            </div>
+
+
+
+
+            <!-- / Layout wrapper -->
+        </div>
+    </div>
+</div>
+
+</div>
+        </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

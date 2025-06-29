@@ -1,0 +1,95 @@
+﻿@model IEnumerable<ContractFarming.Models.InvestmentCard>
+<nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0">
+    <a asp-controller="Investment" asp-action="Index" class="navbar-brand d-flex align-items-center">
+        <h1 class="m-0">
+            <i class="fa fa-building text-primary me-3"></i>رجوع
+        </h1>
+    </a>
+    <button type="button"
+            class="navbar-toggler"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarCollapse">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+</nav>
+<!-- Team Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5 align-items-end mb-5">
+            <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="border-start border-5 border-primary ps-4">
+                    <h6 class="text-body text-uppercase mb-2"></h6>
+                    <h1 class="display-6 mb-0">البطائق الاستثماريه</h1>
+                </div>
+            </div>
+
+        </div>
+        @*@if(TempData["msg"]!=null)
+                        {
+                            <div class="alert alert-danger">@TempData["msg"]</div>
+                        }
+                    @foreach (var items in Model)
+
+                    {
+
+
+
+                    <a href="">
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                            <div class="team-item position-relative">
+                                <img class="img-fluid" src="/uploads/@items.Attachment" alt="" />
+
+
+                                <div class="team-text bg-white p-4">
+                                    <h5>      @Html.ActionLink(items.Title, "InvestmentCard", "InvestmentInvestor", new { id = items.Id }, null)</h5>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </a>  }
+
+            </div>
+                </div>
+            </div>*@
+
+
+
+        @if (!Model.Any())
+        {
+            <div class="alert alert-warning" role="alert">
+                لاتوجد اي بطائق إستثمارية بعد
+            </div>
+        }
+
+        @foreach (var items in Model)
+        {
+
+            <a class="navbar-brand d-flex align-items-center">
+
+                <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-wow-delay="0.3s">
+                    <div class="team-item position-relative">
+                        <img src="~/uploads/@items.ImageUrl" class="img-fluid" alt="" />
+
+                        <div class="team-text bg-white p-4">
+                            <h5>
+                                @Html.ActionLink(items.Title, "InvestmentCard", "InvestmentInvestor", new { id = items.Id }, null)
+
+
+                            </h5>
+
+                        </div>
+
+                    </div>
+                </div>
+            </a>
+
+
+
+        }
+    </div>
+</div>
+    </div>
+</div>
+<!-- Team End -->

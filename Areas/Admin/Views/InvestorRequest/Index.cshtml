@@ -1,0 +1,157 @@
+﻿ <!-- Content wrapper -->
+<!-- Custom style1 Breadcrumb -->
+@model IEnumerable<ContractFarming.Models.ContractRequest>
+
+
+
+@{
+    var index = 1;
+}
+
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+
+
+        <!-- Users List Table -->
+        <div class="card">
+
+            <div class="card-datatable ">
+                <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper dt-bootstrap5 no-footer">
+                
+                    <div class="table-responsive text-nowrap">
+
+                        <div class="card">
+                            <div class="table-responsive text-nowrap">
+
+                                <table class="table TProject">
+                                    <thead>
+                                        <tr>
+                                            <th>الرقم التسلسلي</th>
+
+                                            <th>  اسم البطاقة  </th>
+                                            <th></th>
+                                            <th>اسم المنتج</th>
+                                            <th>اسم المستثمر</th>
+                                            <th>اسم المنتج</th>
+                                            <th>تأكيدالمنتج</th>
+                                              <th></th>
+                                            <th>الاجراءات</th>
+                                            <th>اضافة عقد</th>
+
+                                        </tr>
+                                    </thead>
+                                    <tbody class="table-border-bottom-0">
+
+                                        @foreach (var investorrequest in Model)
+
+                                        {
+
+
+                                                       @if (investorrequest.InvestmrntCardname !=null)
+                                                       {
+                                            <tr>
+                                                <td>@investorrequest.Id  </td>
+
+                                                <td>@investorrequest.InvestmrntCardname </td>
+                                                <td></td>
+                                                <td>@investorrequest.product.Name </td>
+                                                
+                                                <th>@investorrequest.Investor.FullName</th>
+                                                
+
+                                                <th>@investorrequest.Producer.FullName</th>
+                                                <td>
+
+                                                    @if (!investorrequest.ConfirmUser)
+                                                    {
+                                                        <p class="card">قيد الانتظار</p>}
+                                                    else
+                                                    {<p> تم قبول الطلب</p>}
+
+                                                </td>
+
+                                                <td>
+
+                                                  
+                                                </td>
+                                                <th>
+                                                    <div class="dropdown">
+                                                        <button type="button" class="btn dropdown-toggle hide-arrow p-0" data-bs-toggle="dropdown" aria-expanded="false">
+                                                            <i class="bx bx-dots-vertical-rounded"></i>
+                                                        </button>
+                                                        <div class="dropdown-menu">
+
+                                                            <a asp-action="Confirm" asp-route-Id="@investorrequest.Id" class="dropdown-item">
+                                                                <i class="bx bxs-edit-alt icon-padding edit-color">
+
+                                                                </i>
+
+                                                                تأكيدالطلب
+                                                            </a>
+                                                            <a asp-action="Index1" class="dropdown-item">
+                                                                <i class="bx bxs-edit-alt icon-padding edit-color"></i>
+
+                                                                العقود
+                                                            </a>
+
+
+
+
+
+
+
+                                                        </div>
+                                                    </div>
+                                                </th>
+
+
+
+                                                @if (investorrequest.StateAdmin == true && investorrequest.ConfirmUser)
+                                                {
+                                                    <th>
+                                                        <a asp-action="Add">
+                                                            <button class="dt-button add-new btn bg-label-primary btn-add" tabindex="0" aria-controls="DataTables_Table_0" type="button" data-bs-toggle="offcanvas">
+                                                                اضافةعقد
+                                                                @*<span class="d-none d-lg-inline-block  "> @Html.ActionLink("اضافةعقد", "Add1", "ContractRequestsController", new { id = contractrequest.Id }, null)</span>*@
+                                                            </button>
+                                                        </a>
+
+
+
+
+                                                    </th>
+                                                }
+
+                                                else
+                                                {
+
+                                                    <a class="dropdown-item" href="javascript:void(0);" id="confirm-text">
+
+                                                    </a>
+                                                }
+
+
+                                            </tr>
+
+
+
+
+
+                                                           }
+                                                       }
+
+
+                                    </tbody>
+                                </table>
+
+
+                            </div>
+
+
+                         
+                        </div>
+                    </div>
+                </div>
+            </div>
